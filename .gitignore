@@ -1,13 +1,3 @@
-# Data files
-*.csv
-*.xlsx
-*.pkl
-*.h5
-*.npy
-*.pbix
-*.pbit
-
-
 # Python
 __pycache__/
 *.py[cod]
