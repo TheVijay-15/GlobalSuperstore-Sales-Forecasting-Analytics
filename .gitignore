@@ -6,9 +6,7 @@
 *.npy
 *.pbix
 *.pbit
-data/raw/
-data/processed/
-data/model_outputs/
+
 
 # Python
 __pycache__/
