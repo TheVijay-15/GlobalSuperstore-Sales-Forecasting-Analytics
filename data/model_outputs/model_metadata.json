@@ -1,0 +1,49 @@
+{
+    "model_name": "Linear Regression",
+    "features_used": [
+        "day_of_week",
+        "day_of_month",
+        "week_of_year",
+        "month",
+        "quarter",
+        "year",
+        "is_weekend",
+        "day_of_year",
+        "sin_day_of_year",
+        "cos_day_of_year",
+        "is_holiday_month",
+        "is_summer",
+        "sales_lag_1",
+        "sales_lag_7",
+        "sales_lag_14",
+        "sales_lag_30",
+        "sales_rolling_mean_7",
+        "sales_rolling_std_7",
+        "sales_rolling_mean_14",
+        "sales_rolling_std_14",
+        "sales_rolling_mean_30",
+        "sales_rolling_std_30",
+        "sales_diff_1",
+        "sales_diff_7"
+    ],
+    "training_date": "2025-12-19 14:15:58",
+    "performance_metrics": {
+        "MAE": 1.1553418784379953e-11,
+        "RMSE": 1.4648313598934128e-11,
+        "R2": 1.0,
+        "std_R2": 0.0
+    },
+    "forecast_summary": {
+        "forecast_period_days": 90,
+        "start_date": "2015-01-01",
+        "end_date": "2015-03-31",
+        "total_forecasted_sales": 806865.8146727141,
+        "avg_daily_sales": 8965.175718585711,
+        "max_daily_sales": 8965.175718585719,
+        "min_daily_sales": 8965.175718585708,
+        "forecast_uncertainty": 2936.929726341578,
+        "confidence_interval_width": 11512.764527258985,
+        "best_performing_model": "Linear Regression",
+        "model_r2_score": 1.0
+    }
+}

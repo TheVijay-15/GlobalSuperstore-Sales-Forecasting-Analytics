@@ -1,0 +1,1591 @@
+Customer ID,Customer_Recency,Customer_Frequency,Customer_Monetary,Customer_Lifetime,Customer_Total_Profit,Country,Segment
+AA-10315,9,19,13747.41,1363,447.69,United Kingdom,Consumer
+AA-10375,7,23,5884.2,1344,677.48,United States,Consumer
+AA-10480,126,20,17695.59,1212,1516.48,United States,Consumer
+AA-10645,29,36,15343.89,1407,3051.44,United States,Consumer
+AA-315,3,7,2243.26,1300,535.57,Turkey,Consumer
+AA-375,254,8,654.49,1056,77.44,Poland,Consumer
+AA-480,315,5,2063.49,975,554.61,Angola,Consumer
+AA-645,52,11,1968.32,1298,-608.35,Nigeria,Consumer
+AB-10015,17,32,20037.5,1395,3719.49,Australia,Consumer
+AB-10060,43,32,18416.55,1412,4514.06,United States,Home Office
+AB-10105,28,33,22966.78,1148,6912.61,United States,Consumer
+AB-10150,36,24,13057.29,1401,2064.21,United States,Consumer
+AB-10165,14,29,11649.26,1399,2329.47,United States,Consumer
+AB-10255,6,31,10786.72,1436,-43.24,United States,Home Office
+AB-105,44,7,2156.4,1280,-495.33,Turkey,Consumer
+AB-10600,51,22,13318.66,1392,905.36,United States,Corporate
+AB-15,413,5,4607.13,911,963.72,Ukraine,Consumer
+AB-150,399,4,3143.88,616,862.14,Iran,Consumer
+AB-165,17,6,1399.78,1183,106.6,Poland,Consumer
+AB-255,44,8,4679.5,1098,801.85,Morocco,Home Office
+AB-60,36,9,1770.23,1111,465.92,Iraq,Home Office
+AB-600,8,5,5408.55,1430,964.65,Togo,Corporate
+AC-10420,7,24,10607.69,1262,206.48,Mexico,Corporate
+AC-10450,6,19,16126.39,1236,4105.6,United States,Consumer
+AC-10615,7,29,12729.72,1276,1160.68,United States,Corporate
+AC-10660,3,21,6255.62,1302,-999.0,Haiti,Consumer
+AC-420,14,9,1689.68,1441,237.56,Algeria,Corporate
+AC-450,182,7,1026.6,822,-125.19,Kazakhstan,Consumer
+AC-615,93,7,2298.43,1249,-280.55,Austria,Corporate
+AC-660,120,4,2676.09,464,726.87,Egypt,Consumer
+AD-10180,30,27,17858.5,1204,2050.75,United States,Home Office
+AD-180,6,3,681.29,207,-510.76,Turkey,Home Office
+AF-10870,7,36,26487.26,1366,1736.07,United States,Consumer
+AF-10885,54,35,19711.17,1321,2882.91,France,Consumer
+AF-870,6,9,1700.08,1182,542.23,Democratic Republic of the Congo,Consumer
+AF-885,168,2,354.99,36,88.32,Romania,Consumer
+AG-10270,41,25,10637.4,1412,2152.0,United States,Consumer
+AG-10300,3,24,13013.88,1440,1845.77,France,Corporate
+AG-10330,9,29,14534.51,1252,929.47,United States,Consumer
+AG-10390,115,19,8453.01,1238,995.74,United States,Consumer
+AG-10495,79,29,15380.31,1289,2749.06,United States,Corporate
+AG-10525,13,20,8468.96,1228,36.03,United States,Corporate
+AG-10675,48,21,13023.84,1345,680.79,United States,Consumer
+AG-10765,29,27,9824.78,1421,1250.58,El Salvador,Home Office
+AG-10900,58,29,18174.17,1352,1879.77,United States,Consumer
+AG-270,14,8,2779.81,1171,450.58,Cameroon,Consumer
+AG-300,99,6,1703.31,729,-1072.62,Jordan,Corporate
+AG-330,3,7,532.54,1111,77.5,Nigeria,Consumer
+AG-390,113,4,473.11,1188,-548.48,Uganda,Consumer
+AG-495,49,11,1003.99,1360,-106.85,Turkey,Corporate
+AG-525,16,7,2870.68,1272,133.36,Nigeria,Corporate
+AG-675,174,10,2368.13,1220,242.27,Nigeria,Consumer
+AG-765,115,8,1859.53,797,-1075.28,Turkey,Home Office
+AG-900,24,4,1699.47,1408,-146.52,Nigeria,Consumer
+AH-10030,13,27,14439.5,1337,2601.43,United States,Corporate
+AH-10075,3,34,18109.86,1298,986.04,United States,Corporate
+AH-10120,61,22,9927.84,1202,1705.14,United States,Home Office
+AH-10195,50,25,12628.19,1395,158.91,Italy,Corporate
+AH-10210,7,34,20365.74,1220,4139.66,United States,Consumer
+AH-10465,71,20,8547.83,1240,611.89,United States,Consumer
+AH-10585,22,22,9125.89,1281,1458.35,Australia,Consumer
+AH-10690,31,31,16276.16,1339,2795.84,United States,Corporate
+AH-120,22,4,1478.08,974,376.24,Egypt,Home Office
+AH-195,279,9,2651.56,962,-751.16,Iran,Corporate
+AH-210,458,4,3277.11,779,202.71,Egypt,Consumer
+AH-30,469,7,6320.02,736,-150.5,Nigeria,Corporate
+AH-465,242,4,650.83,1124,106.45,South Africa,Consumer
+AH-585,76,9,2232.22,1164,151.72,Turkey,Consumer
+AH-690,59,5,1817.9,1361,-329.83,Zimbabwe,Corporate
+AH-75,38,8,3608.34,1119,915.99,Cameroon,Corporate
+AI-10855,14,22,8358.6,1330,1612.76,United States,Consumer
+AI-855,204,4,919.97,1108,-74.59,Romania,Consumer
+AJ-10780,49,25,15186.07,1402,1784.25,United States,Corporate
+AJ-10795,63,22,8887.08,1276,1861.09,United States,Corporate
+AJ-10945,29,29,11087.02,1371,1567.64,United States,Consumer
+AJ-10960,49,17,8633.59,1156,1518.67,Cuba,Consumer
+AJ-780,2,12,2570.99,1390,-612.01,Nigeria,Corporate
+AJ-795,37,10,3395.58,1263,617.49,Poland,Corporate
+AJ-945,105,7,4860.92,1205,1439.06,Senegal,Consumer
+AJ-960,295,10,4629.16,1105,1012.69,Turkey,Consumer
+AM-10360,16,33,16730.33,1394,2748.48,United States,Corporate
+AM-10705,26,30,24218.56,1313,2728.65,United States,Consumer
+AM-360,176,6,2035.83,662,229.38,South Africa,Corporate
+AM-705,137,6,1303.77,755,509.94,Belarus,Consumer
+AO-10810,37,27,14537.8,1183,1028.39,Australia,Corporate
+AO-810,8,5,485.01,456,64.71,Canada,Corporate
+AP-10720,42,20,15362.06,1358,2937.47,United States,Home Office
+AP-10915,77,32,15877.86,1381,2420.11,United States,Consumer
+AP-720,38,6,999.7,1362,55.3,Morocco,Home Office
+AP-915,93,5,2668.08,679,717.51,Egypt,Consumer
+AR-10345,30,26,14165.8,1278,1683.93,Australia,Corporate
+AR-10405,55,22,8956.82,1381,-583.48,Mexico,Corporate
+AR-10510,15,29,14277.89,1395,3518.96,Australia,Consumer
+AR-10540,7,15,7983.95,1337,3050.91,United States,Consumer
+AR-10570,3,18,9445.65,1348,1584.83,Brazil,Consumer
+AR-10825,23,38,15311.04,1306,2828.1,United States,Corporate
+AR-345,142,9,2301.07,1231,606.73,Saudi Arabia,Corporate
+AR-405,223,6,571.11,1149,31.2,Kazakhstan,Corporate
+AR-510,105,10,2638.64,1108,42.8,Turkey,Consumer
+AR-540,222,8,561.6,1017,88.17,Mali,Consumer
+AR-570,71,9,2044.28,1280,409.82,Democratic Republic of the Congo,Consumer
+AR-825,34,7,2028.91,1312,289.54,Iran,Corporate
+AS-10045,24,28,12596.29,1358,660.92,United States,Corporate
+AS-10090,16,32,15009.47,1305,1344.96,United States,Consumer
+AS-10135,42,19,7307.24,1099,750.29,China,Home Office
+AS-10225,13,28,21366.9,1248,2718.66,United States,Corporate
+AS-10240,13,31,9006.67,1423,630.38,France,Consumer
+AS-10285,19,30,16179.86,1317,1794.86,India,Corporate
+AS-10630,36,19,9815.94,1213,3194.36,United States,Home Office
+AS-135,93,5,3978.81,874,814.2,Israel,Home Office
+AS-225,3,7,469.52,1321,-215.02,Nigeria,Corporate
+AS-240,499,5,1686.51,699,545.07,Saudi Arabia,Consumer
+AS-285,100,13,4938.46,1282,738.7,Angola,Corporate
+AS-45,234,3,1616.33,744,-291.76,South Africa,Corporate
+AS-630,34,11,2000.01,1393,-1103.31,Nigeria,Home Office
+AS-90,22,4,435.2,1344,76.31,Morocco,Consumer
+AT-10435,13,24,13654.31,1296,3016.9,Indonesia,Home Office
+AT-10735,3,29,12984.1,1302,2516.71,United States,Consumer
+AT-435,29,12,1287.99,1279,-221.37,Mongolia,Home Office
+AT-735,70,5,403.65,1391,143.07,Hungary,Consumer
+AW-10840,17,25,13200.26,1281,1444.83,Germany,Consumer
+AW-10930,36,22,10230.96,1422,2585.88,United States,Home Office
+AW-840,57,7,1947.0,1369,-228.42,Turkey,Consumer
+AW-930,38,6,782.06,864,95.08,Morocco,Home Office
+AY-10555,15,16,5446.61,1351,1850.52,United States,Corporate
+AY-555,36,11,3096.42,1185,440.46,Iran,Corporate
+AZ-10750,71,18,9639.8,1315,1606.56,United States,Consumer
+AZ-750,27,10,2231.28,1330,-682.2,Turkey,Consumer
+BB-10990,15,30,9064.53,1352,177.07,United States,Corporate
+BB-11545,29,26,15797.57,1147,1686.66,United States,Corporate
+BB-1545,50,5,207.23,806,52.19,Zambia,Corporate
+BB-990,51,7,822.29,874,122.36,Sudan,Corporate
+BC-11125,34,28,14789.45,1326,2755.68,Spain,Home Office
+BC-1125,30,6,396.04,1363,-269.72,Turkey,Home Office
+BD-11320,6,32,13390.27,1344,1409.62,United States,Consumer
+BD-11500,20,27,13089.85,1438,2412.36,United States,Consumer
+BD-11560,8,19,9356.78,1423,1909.86,Germany,Home Office
+BD-11605,98,19,9202.66,1354,1201.18,United States,Consumer
+BD-11620,50,25,7849.0,1352,448.51,Philippines,Consumer
+BD-11635,10,25,11230.7,1350,1303.62,Germany,Consumer
+BD-11725,5,30,10877.83,1373,1574.14,United States,Consumer
+BD-11770,36,26,10168.33,1280,2397.81,United States,Consumer
+BD-1320,6,6,1885.05,512,213.06,Poland,Consumer
+BD-1500,399,3,52.05,703,-31.29,Morocco,Consumer
+BD-1560,91,5,1564.02,1025,114.84,Poland,Home Office
+BD-1605,276,5,689.64,632,224.49,Israel,Consumer
+BD-1620,118,11,2919.6,1210,535.92,Iraq,Consumer
+BD-1635,325,9,5689.26,983,1488.69,Iran,Consumer
+BD-1725,101,13,5078.4,1347,901.02,Israel,Consumer
+BD-1770,239,5,3405.07,1192,-869.54,Turkey,Consumer
+BE-11335,36,37,27158.02,1323,7790.7,China,Home Office
+BE-11410,85,30,16552.07,1268,3398.1,United Kingdom,Consumer
+BE-11455,4,27,17643.53,1395,517.91,United States,Home Office
+BE-1335,573,5,1321.15,563,-380.69,Uganda,Home Office
+BE-1410,22,7,1859.86,1342,391.06,Senegal,Consumer
+BE-1455,147,2,1340.31,400,460.11,Angola,Home Office
+BF-1005,735,2,732.03,612,176.43,Niger,Home Office
+BF-1020,97,7,3007.0,402,-193.13,Turkey,Corporate
+BF-1080,210,6,3808.17,953,896.94,Canada,Consumer
+BF-10975,36,22,8104.78,1231,1217.01,United States,Corporate
+BF-11005,9,25,23347.84,1185,939.24,United States,Home Office
+BF-11020,16,24,10201.28,1399,1133.26,United States,Corporate
+BF-11080,26,21,10134.56,1347,1187.57,Australia,Consumer
+BF-11170,17,31,22314.84,1342,3859.22,United States,Home Office
+BF-11215,27,27,12968.94,1388,878.91,Australia,Home Office
+BF-11275,7,23,9578.6,1374,565.07,Cuba,Corporate
+BF-1170,194,6,904.92,562,275.88,Poland,Home Office
+BF-1215,118,5,398.92,510,-237.59,Zimbabwe,Home Office
+BF-1275,129,7,1009.97,990,96.38,Turkey,Corporate
+BF-975,23,8,1730.23,1175,616.72,Saudi Arabia,Corporate
+BG-1035,601,1,124.42,0,-219.8,Lithuania,Consumer
+BG-11035,29,33,19899.15,1163,1749.98,United States,Consumer
+BG-11695,10,19,10723.32,1321,568.97,United States,Corporate
+BG-11740,7,24,14689.34,1373,2084.92,France,Consumer
+BG-1695,45,5,488.85,1297,-151.65,Nigeria,Corporate
+BG-1740,17,4,692.45,180,-658.3,Turkey,Consumer
+BH-11710,24,31,23537.34,1432,3243.94,United States,Consumer
+BH-1710,94,10,4583.29,1004,1633.0,Romania,Consumer
+BK-11260,27,27,13294.69,1334,2389.45,United States,Consumer
+BK-1260,41,6,291.56,1137,58.22,Turkey,Consumer
+BM-11140,9,29,25312.29,1202,-1140.64,United States,Consumer
+BM-1140,14,6,1857.69,1295,43.71,Ukraine,Consumer
+BM-11575,35,25,10351.33,1354,-189.54,United States,Corporate
+BM-11650,34,24,14921.0,1238,3927.17,United States,Corporate
+BM-11785,3,36,18446.85,1390,2036.68,United States,Consumer
+BM-1575,41,9,1703.98,1399,471.67,Mozambique,Corporate
+BM-1650,482,8,2537.11,753,458.68,Iran,Corporate
+BM-1785,49,9,2244.34,1308,475.93,Algeria,Consumer
+BN-11470,12,29,23378.1,1195,1548.04,China,Corporate
+BN-11515,10,23,10272.23,1376,2018.7,United States,Consumer
+BN-1470,23,7,2823.85,1113,576.01,Morocco,Corporate
+BN-1515,28,8,2606.8,1179,525.37,Iran,Consumer
+BO-11350,112,20,7476.25,1064,555.19,United States,Corporate
+BO-11425,6,21,12356.59,1399,1904.9,France,Consumer
+BO-1350,22,6,616.24,750,-139.97,Turkey,Corporate
+BO-1425,2,8,2671.26,1098,651.93,Poland,Consumer
+BP-1050,12,9,4981.54,1386,1245.88,Turkey,Corporate
+BP-1095,12,6,1759.67,866,384.83,Iraq,Corporate
+BP-11050,6,21,5403.79,1324,845.08,El Salvador,Corporate
+BP-11095,3,32,8327.87,1445,599.43,United States,Corporate
+BP-11155,33,24,13696.14,1207,3395.31,United States,Consumer
+BP-11185,2,28,15376.03,1194,1989.49,United States,Corporate
+BP-11230,40,23,12573.61,1331,467.92,Australia,Consumer
+BP-11290,13,29,12448.9,1292,1858.83,United States,Consumer
+BP-1155,262,6,1110.78,1041,180.9,Canada,Consumer
+BP-1185,5,10,1430.62,779,-645.53,Turkey,Corporate
+BP-1230,84,8,6134.99,1245,444.29,Nigeria,Consumer
+BP-1290,370,4,383.34,1074,99.27,Croatia,Consumer
+BS-11365,1,26,22551.03,1337,5680.73,Brazil,Corporate
+BS-11380,29,23,18305.98,1376,1776.7,United States,Corporate
+BS-11590,36,23,11358.59,1411,1783.46,China,Corporate
+BS-11665,30,24,17468.88,1258,3112.16,United States,Consumer
+BS-11755,2,29,17557.46,1322,1194.73,United States,Consumer
+BS-11800,10,21,10887.21,1171,1851.86,France,Home Office
+BS-1365,38,5,957.63,840,288.18,Ghana,Corporate
+BS-1380,132,5,469.46,773,38.33,Morocco,Corporate
+BS-1590,238,5,819.45,1114,262.23,Croatia,Corporate
+BS-1665,153,7,5101.91,1175,500.72,Senegal,Consumer
+BS-1755,296,5,1679.76,788,-697.77,Nigeria,Consumer
+BS-1800,12,9,6364.85,1390,931.34,South Africa,Home Office
+BT-11305,29,24,10321.82,1429,908.18,Germany,Home Office
+BT-11395,29,24,11347.53,1364,2743.96,United States,Corporate
+BT-11440,52,21,8263.98,1255,290.93,United States,Consumer
+BT-11485,31,29,8878.05,1396,1170.75,France,Home Office
+BT-11530,34,25,13808.32,1287,930.83,United States,Home Office
+BT-11680,19,22,14087.76,1368,1663.91,United States,Consumer
+BT-1305,32,10,1305.96,1152,-44.25,Zimbabwe,Home Office
+BT-1395,34,4,448.85,605,-199.03,Zimbabwe,Corporate
+BT-1440,94,10,2132.56,1274,-760.72,Turkey,Consumer
+BT-1485,98,9,2803.97,1339,-231.13,Turkey,Home Office
+BT-1530,353,7,1535.78,1083,522.8,Canada,Home Office
+BT-1680,58,4,807.36,1048,131.64,Egypt,Consumer
+BV-11245,45,22,20681.68,1264,3415.05,United States,Corporate
+BV-1245,129,3,684.26,1174,-595.3,Turkey,Corporate
+BW-1065,23,5,9027.48,910,3341.34,Democratic Republic of the Congo,Consumer
+BW-11065,51,18,8409.06,1384,354.06,Australia,Consumer
+BW-1110,185,10,1696.83,1211,258.42,Ukraine,Corporate
+BW-11110,55,35,30613.62,1360,3337.47,United States,Corporate
+BW-11200,41,29,11862.37,1408,1567.88,United States,Consumer
+BW-1200,134,4,3105.82,1266,784.33,Sudan,Consumer
+CA-11965,19,26,21110.52,1416,3382.26,United States,Corporate
+CA-12055,14,22,10691.03,1368,1738.37,Mexico,Home Office
+CA-12265,35,31,18472.67,1401,3270.72,United States,Consumer
+CA-12310,14,21,7166.23,1332,727.93,United States,Corporate
+CA-12775,94,26,18350.46,1189,4605.48,United States,Consumer
+CA-1965,128,8,2883.14,882,-103.18,Romania,Corporate
+CA-2055,259,3,1601.73,731,131.4,Iran,Home Office
+CA-2265,106,7,3364.64,1094,391.4,Bulgaria,Consumer
+CA-2310,337,5,636.06,1043,139.23,Iraq,Corporate
+CA-2775,310,4,1485.9,994,-714.21,Turkey,Consumer
+CB-12025,10,25,11685.32,1372,-98.73,United States,Consumer
+CB-12415,27,23,12705.55,1250,2271.9,United States,Consumer
+CB-12535,43,27,18108.67,1397,2401.91,United States,Corporate
+CB-2025,23,5,1840.89,495,307.56,Iran,Consumer
+CB-2415,517,4,1232.57,890,-184.81,Iraq,Consumer
+CB-2535,8,2,147.12,345,-234.69,Nigeria,Corporate
+CC-12100,52,25,11500.12,1091,2384.26,United States,Home Office
+CC-12145,83,24,12190.67,1178,1471.93,United States,Consumer
+CC-12220,21,32,7308.73,1379,1315.81,United States,Consumer
+CC-12370,44,30,28229.85,1383,3982.93,United States,Consumer
+CC-12430,1,29,13997.59,1437,2779.92,United States,Home Office
+CC-12475,17,30,17159.8,1309,3120.16,United States,Consumer
+CC-12550,28,25,7908.65,1358,1167.46,Australia,Consumer
+CC-12610,17,29,16822.64,1248,2950.19,United States,Corporate
+CC-12670,17,28,9969.03,1342,-549.58,United States,Consumer
+CC-12685,55,20,12798.54,1326,693.63,United States,Consumer
+CC-2100,61,5,1020.05,693,238.37,Hungary,Home Office
+CC-2145,505,6,1158.18,789,-164.13,Turkey,Consumer
+CC-2220,22,12,4174.18,1265,1190.08,Canada,Consumer
+CC-2370,7,9,6957.22,1393,1620.4,Russia,Consumer
+CC-2430,472,2,1041.57,381,160.59,Algeria,Home Office
+CC-2475,56,7,3709.88,1283,914.69,Angola,Consumer
+CC-2550,272,5,1433.4,1036,357.09,Egypt,Consumer
+CC-2610,345,3,782.39,346,52.82,Turkey,Corporate
+CC-2670,147,6,1527.58,1101,268.6,Ghana,Consumer
+CC-2685,132,5,4019.41,975,1556.23,Morocco,Consumer
+CD-11920,3,27,18296.75,1388,4751.73,France,Consumer
+CD-11980,2,23,11848.16,1379,1648.44,Australia,Consumer
+CD-12280,42,24,16779.55,1242,2367.38,United States,Consumer
+CD-12790,77,25,13468.11,1351,2080.48,United States,Home Office
+CD-1920,315,4,1821.22,774,277.18,Russia,Consumer
+CD-1980,7,7,1380.23,1343,231.92,Nigeria,Consumer
+CD-2280,13,7,1205.04,822,224.4,Guinea,Consumer
+CD-2790,132,7,1030.79,1025,73.82,Algeria,Home Office
+CG-12040,22,19,3596.27,1146,149.07,United States,Home Office
+CG-12520,29,18,13545.47,1246,2398.13,France,Consumer
+CG-2040,379,5,518.94,887,-395.91,Turkey,Home Office
+CG-2520,120,7,1116.2,603,168.44,Nigeria,Consumer
+CH-12070,90,21,11122.56,1270,1493.42,France,Home Office
+CH-2070,307,8,4545.62,711,1178.09,Czech Republic,Home Office
+CJ-11875,14,23,12538.83,1178,1857.24,Australia,Corporate
+CJ-12010,34,26,19356.0,1275,2386.72,United States,Consumer
+CJ-1875,33,6,1431.43,1174,100.18,Iran,Corporate
+CJ-2010,47,3,223.56,1096,30.87,Morocco,Consumer
+CK-12205,5,38,13625.21,1387,1311.21,United States,Consumer
+CK-12325,62,27,9927.9,1327,849.52,United States,Home Office
+CK-12595,44,33,16480.87,1208,2175.85,United States,Consumer
+CK-12760,58,26,6574.8,1365,-100.51,United States,Corporate
+CK-2205,80,5,950.7,923,-345.39,Yemen,Consumer
+CK-2325,1,8,3125.3,1190,531.2,Iraq,Home Office
+CK-2595,216,3,662.28,400,197.79,Iran,Consumer
+CK-2760,38,12,4015.95,885,625.89,Senegal,Corporate
+CL-11890,14,31,17622.41,1426,-247.74,United States,Consumer
+CL-12565,6,30,17008.14,1416,614.58,United States,Consumer
+CL-12700,9,31,17943.65,1438,2563.44,Mexico,Home Office
+CL-1890,93,9,560.74,1275,83.48,Poland,Consumer
+CL-2565,43,6,2775.64,1248,708.85,Algeria,Consumer
+CL-2700,142,4,1432.37,425,106.88,Cote d'Ivoire,Home Office
+CM-11815,41,23,14362.8,1348,-2881.64,United States,Corporate
+CM-11830,7,24,16828.82,1266,2444.7,France,Corporate
+CM-11935,37,18,9689.01,1188,2081.09,Germany,Consumer
+CM-12115,9,20,14657.95,1412,2164.82,Vietnam,Consumer
+CM-12160,27,26,17910.04,1404,432.56,France,Consumer
+CM-12190,1,25,11375.05,1304,598.48,France,Consumer
+CM-12235,43,22,11377.59,1416,1954.0,United States,Consumer
+CM-12385,38,25,21882.97,1416,3029.96,United States,Consumer
+CM-12445,16,25,11971.71,1286,1188.13,Mexico,Consumer
+CM-12655,28,18,14188.72,1140,-733.96,United States,Home Office
+CM-12715,42,19,8392.58,1354,915.39,United States,Corporate
+CM-1815,62,5,431.87,1095,82.85,Morocco,Corporate
+CM-1830,114,13,4777.41,1121,39.99,Nigeria,Corporate
+CM-1935,49,7,459.29,1359,125.27,Nigeria,Consumer
+CM-2115,21,3,1907.37,290,277.53,Egypt,Consumer
+CM-2160,50,5,2245.92,1183,314.13,Egypt,Consumer
+CM-2190,153,4,1451.49,634,-480.69,Hungary,Consumer
+CM-2235,52,5,243.03,866,-66.3,Turkey,Consumer
+CM-2385,575,4,580.61,545,-19.93,Mozambique,Consumer
+CM-2445,349,4,1741.58,998,288.53,Israel,Consumer
+CM-2655,51,12,1389.83,1193,-221.11,Turkey,Home Office
+CM-2715,118,7,2838.26,1212,294.95,Nigeria,Corporate
+CP-12085,70,23,14183.88,1054,620.38,United States,Corporate
+CP-12340,9,30,20109.47,1429,182.97,United States,Corporate
+CP-2085,143,10,5585.7,1141,1130.19,South Africa,Corporate
+CP-2340,464,4,5044.65,775,1565.31,Algeria,Corporate
+CR-12580,23,20,8700.31,1215,818.03,Australia,Home Office
+CR-12625,44,28,17271.21,1351,1478.58,Indonesia,Home Office
+CR-12730,23,24,19487.96,1207,1648.04,Brazil,Consumer
+CR-12820,61,24,14470.55,1239,3391.19,India,Home Office
+CR-2580,35,5,3057.26,413,1127.96,Egypt,Home Office
+CR-2625,140,9,5079.9,1299,866.55,Egypt,Home Office
+CR-2730,6,11,1359.58,1260,-212.6,Nigeria,Consumer
+CR-2820,56,8,1188.01,1057,-78.47,Algeria,Home Office
+CS-11845,16,26,20471.05,1433,3274.99,United States,Corporate
+CS-11860,78,21,10555.92,1322,970.34,United States,Consumer
+CS-11950,26,31,14222.97,1381,-1148.08,United States,Consumer
+CS-12130,12,22,10981.23,1373,641.45,Indonesia,Consumer
+CS-12175,61,29,16706.1,1282,3114.01,Australia,Corporate
+CS-12250,27,30,12496.11,1421,2210.83,United States,Corporate
+CS-12355,7,31,9240.9,1228,-115.63,United States,Consumer
+CS-12400,2,23,10221.36,1285,1373.06,United States,Home Office
+CS-12460,7,23,20084.22,1327,2801.27,Germany,Consumer
+CS-12490,3,30,11110.5,1360,-422.26,United States,Corporate
+CS-12505,28,16,11535.25,1349,-6437.37,United States,Consumer
+CS-1845,25,8,1593.31,1110,-359.66,Turkey,Corporate
+CS-1860,51,9,1618.67,1061,349.55,Iraq,Consumer
+CS-1950,136,5,714.07,1185,148.0,Canada,Consumer
+CS-2130,306,4,1367.27,885,-645.52,Democratic Republic of the Congo,Consumer
+CS-2175,58,5,3340.1,1386,1214.57,Tanzania,Corporate
+CS-2250,3,4,1917.62,1187,391.67,Iraq,Corporate
+CS-2355,56,9,1307.16,1314,114.48,Turkey,Consumer
+CS-2400,12,5,2293.17,816,706.98,Djibouti,Home Office
+CS-2460,203,8,2671.23,1248,141.84,Zimbabwe,Consumer
+CS-2490,170,3,1664.13,905,611.13,Iraq,Corporate
+CS-2505,51,7,1894.5,1299,285.81,Mozambique,Consumer
+CT-11995,29,27,13715.8,1314,2509.4,United States,Consumer
+CT-1995,784,2,422.78,378,-71.59,Ukraine,Consumer
+CV-12295,40,20,9042.27,1335,1126.45,United States,Consumer
+CV-12805,5,20,9764.13,1284,1737.44,United States,Corporate
+CV-2295,86,9,1283.24,1156,-521.11,Turkey,Consumer
+CV-2805,258,7,5088.85,1087,172.66,Romania,Corporate
+CW-11905,9,25,12917.63,1293,2635.85,United Kingdom,Home Office
+CW-1905,385,4,1436.31,856,371.55,Angola,Home Office
+CY-12745,61,31,13928.47,1073,1721.26,United States,Corporate
+CY-2745,493,4,293.03,843,-179.02,Benin,Corporate
+Co-12640,5,25,12279.23,1353,1295.16,India,Consumer
+Co-2640,363,5,767.64,954,-99.12,Nigeria,Consumer
+DA-13450,14,25,13035.37,1333,-826.07,United States,Home Office
+DA-3450,15,4,2212.05,1353,528.24,Democratic Republic of the Congo,Home Office
+DB-12910,3,27,12338.28,1260,781.99,United States,Home Office
+DB-12970,218,11,9166.21,1171,463.24,United States,Corporate
+DB-13060,17,26,23476.91,1385,3315.62,United States,Consumer
+DB-13120,6,16,5602.59,1108,-2028.58,United States,Corporate
+DB-13210,8,27,13743.6,1297,1479.97,United States,Consumer
+DB-13270,10,25,11690.37,1416,1420.46,United States,Home Office
+DB-13360,48,28,6919.81,1387,848.45,Brazil,Home Office
+DB-13405,29,26,16083.96,1291,1988.81,United States,Consumer
+DB-13555,37,22,9415.22,1314,943.01,United States,Corporate
+DB-13615,28,28,10031.46,1235,1995.25,Germany,Consumer
+DB-13660,13,20,11397.06,1411,1267.34,United States,Consumer
+DB-2910,55,8,3051.18,1310,874.95,Belarus,Home Office
+DB-2970,58,4,513.03,673,123.72,Iran,Corporate
+DB-3060,9,8,2070.26,1091,336.74,South Africa,Consumer
+DB-3120,359,4,671.23,830,-242.12,Nigeria,Corporate
+DB-3210,583,7,387.02,845,-54.16,Nigeria,Consumer
+DB-3270,49,2,886.23,483,219.78,Algeria,Home Office
+DB-3360,435,2,3691.53,776,1074.27,Cameroon,Home Office
+DB-3405,558,2,548.68,441,-30.26,Romania,Consumer
+DB-3555,6,3,971.11,870,299.26,Sudan,Corporate
+DB-3615,108,4,2824.15,889,972.43,Nigeria,Consumer
+DB-3660,238,3,2207.71,629,150.46,Egypt,Consumer
+DC-12850,38,29,9307.37,1238,-659.56,United States,Consumer
+DC-13285,19,23,16164.65,1325,1043.39,Mexico,Consumer
+DC-2850,35,9,4131.14,1199,589.07,Canada,Consumer
+DC-3285,393,4,800.0,471,-178.06,Algeria,Consumer
+DD-13570,42,24,8741.46,1417,959.77,Italy,Consumer
+DD-3570,64,8,2331.41,678,439.88,Israel,Consumer
+DE-13255,20,22,10085.79,1208,1657.89,United States,Home Office
+DE-3255,49,8,2714.49,1239,77.61,Iran,Home Office
+DF-13135,10,18,10240.38,1441,474.0,Indonesia,Consumer
+DF-3135,44,4,1301.65,1249,-110.93,Kazakhstan,Consumer
+DG-13300,31,28,13731.43,1241,2067.26,China,Corporate
+DG-3300,15,6,2982.31,939,307.06,Nigeria,Corporate
+DH-13075,76,25,14128.68,1354,1370.58,United States,Corporate
+DH-13675,22,17,7817.31,1216,843.0,United States,Home Office
+DH-3075,160,10,2063.68,1089,311.29,Cote d'Ivoire,Corporate
+DH-3675,21,12,4661.84,1338,1308.14,Russia,Home Office
+DJ-13420,23,28,22142.43,1359,3173.14,Germany,Corporate
+DJ-13510,7,31,15420.29,1440,2695.86,Brazil,Corporate
+DJ-13630,13,27,12560.13,1191,2205.88,United States,Consumer
+DJ-3420,2,4,419.64,949,82.26,Egypt,Corporate
+DJ-3510,7,7,5976.69,839,1614.6,Ukraine,Corporate
+DJ-3630,35,6,1293.95,1000,469.88,Turkey,Consumer
+DK-12835,22,32,17590.55,1409,2632.19,United States,Corporate
+DK-12895,46,22,18340.63,1279,1080.66,United States,Consumer
+DK-12985,2,35,14823.97,1440,1366.8,Germany,Consumer
+DK-13090,9,36,19178.64,1379,4004.44,United States,Consumer
+DK-13150,11,22,15983.71,1419,2064.72,Germany,Corporate
+DK-13225,2,29,9246.47,1387,898.32,United States,Corporate
+DK-13375,5,26,16258.53,1207,2159.8,United States,Consumer
+DK-2835,22,11,3373.14,1385,285.66,Iraq,Corporate
+DK-2895,147,6,1292.13,642,282.9,Djibouti,Consumer
+DK-2985,1207,1,81.43,0,-78.89,Nigeria,Consumer
+DK-3090,69,3,273.77,99,76.13,Egypt,Consumer
+DK-3150,58,14,1577.87,1372,114.41,Turkey,Corporate
+DK-3225,66,8,1407.98,697,108.77,Angola,Corporate
+DK-3375,118,10,3846.78,1286,805.71,Poland,Consumer
+DL-12865,58,34,11185.72,1394,280.33,United States,Consumer
+DL-12925,58,21,11364.68,1355,1411.79,United States,Consumer
+DL-13315,19,27,18505.6,1426,2265.23,United States,Consumer
+DL-13330,13,34,16781.63,1376,2652.75,Australia,Consumer
+DL-13495,23,27,15872.18,1228,2474.76,United States,Corporate
+DL-2865,203,7,1502.96,1017,145.7,Iran,Consumer
+DL-2925,38,7,832.0,1033,-303.35,Nigeria,Consumer
+DL-3315,48,6,1746.87,1026,533.31,Morocco,Consumer
+DL-3330,706,3,1159.35,247,94.74,Canada,Consumer
+DL-3495,283,5,773.6,999,-913.9,Turkey,Corporate
+DM-12955,41,32,19862.58,1229,2206.22,Cuba,Corporate
+DM-13015,6,30,15626.53,1393,1530.86,United States,Consumer
+DM-13345,3,27,17054.89,1223,2876.81,United States,Corporate
+DM-13525,36,19,9640.38,1240,-925.56,United States,Corporate
+DM-2955,13,9,2437.41,1151,100.71,Democratic Republic of the Congo,Corporate
+DM-3015,3,6,2105.79,363,460.89,Iran,Consumer
+DM-3345,146,6,4998.42,1036,-5474.61,Turkey,Corporate
+DM-3525,322,6,2191.27,829,652.15,Democratic Republic of the Congo,Corporate
+DN-13690,20,24,13098.34,1409,711.42,United States,Consumer
+DN-3690,13,5,1815.95,928,-477.88,Zimbabwe,Consumer
+DO-13435,65,32,15280.89,1190,3207.43,United States,Consumer
+DO-13645,27,25,12083.48,1291,1997.83,United Kingdom,Consumer
+DO-3435,37,10,3515.73,1251,930.21,Morocco,Consumer
+DO-3645,42,5,1689.25,323,-181.1,Canada,Consumer
+DP-13000,62,31,13882.76,1396,-949.6,United States,Consumer
+DP-13105,7,25,18930.03,1448,3099.95,Australia,Corporate
+DP-13165,8,25,22211.28,1392,1808.32,Mexico,Consumer
+DP-13390,1,27,10282.79,1458,2369.83,United States,Home Office
+DP-3000,15,10,2093.61,1213,432.15,Russia,Consumer
+DP-3105,65,6,6970.72,1180,1500.19,Morocco,Corporate
+DP-3165,8,6,1517.95,1424,-973.79,Nigeria,Consumer
+DP-3390,13,6,1376.13,1283,318.36,South Africa,Home Office
+DR-12880,4,32,14415.34,1350,2112.65,United States,Corporate
+DR-12940,28,33,25641.46,1394,5505.92,United States,Home Office
+DR-2880,5,8,2291.46,933,-128.25,Democratic Republic of the Congo,Corporate
+DR-2940,40,8,2288.4,1313,598.05,Algeria,Home Office
+DS-13030,94,26,11644.3,1259,1068.35,United States,Home Office
+DS-13180,15,31,13447.41,1332,1669.79,United States,Corporate
+DS-3030,49,6,1636.51,1183,419.32,Turkey,Home Office
+DS-3180,72,2,185.14,252,43.63,Algeria,Corporate
+DV-13045,20,24,18106.01,1213,599.19,Indonesia,Corporate
+DV-13465,30,20,12910.88,1421,2167.68,United States,Consumer
+DV-3045,34,13,4640.32,1407,17.14,Turkey,Corporate
+DV-3465,14,5,4037.82,925,1175.04,Iraq,Consumer
+DW-13195,7,26,9689.32,1436,1623.38,Australia,Corporate
+DW-13480,66,23,16336.86,1304,3315.69,United States,Home Office
+DW-13540,13,20,13166.42,1362,1471.87,Spain,Consumer
+DW-13585,6,37,12143.04,1303,821.81,Cuba,Corporate
+DW-3195,1064,4,1241.23,162,115.72,Iraq,Corporate
+DW-3480,56,12,7118.11,1300,1713.4,Ghana,Home Office
+DW-3540,55,4,1216.59,1141,-1046.16,Turkey,Consumer
+DW-3585,29,4,461.87,329,48.74,Nigeria,Corporate
+Dl-13600,6,20,11912.76,1381,1722.94,Thailand,Corporate
+Dl-3600,112,10,2809.06,1029,128.77,Turkey,Corporate
+Dp-13240,19,28,22225.61,1297,3822.69,United States,Home Office
+Dp-3240,26,7,609.3,1144,136.47,Canada,Home Office
+EA-14035,94,31,11387.07,1316,867.17,United States,Corporate
+EA-4035,166,3,131.81,542,0.89,Iran,Corporate
+EB-13705,49,30,12382.28,1404,894.01,United States,Corporate
+EB-13750,33,20,8489.99,1390,1368.59,United States,Corporate
+EB-13840,3,25,20188.16,1426,5466.5,Germany,Corporate
+EB-13870,16,19,6850.98,1354,187.38,United States,Consumer
+EB-13930,20,18,9533.95,1408,1385.48,Australia,Consumer
+EB-13975,1,32,13405.6,1303,2653.54,Brazil,Corporate
+EB-14110,36,24,13665.47,1353,3285.62,United States,Consumer
+EB-14170,20,23,6736.44,1240,276.78,United States,Consumer
+EB-3705,399,3,3141.63,925,594.6,Libya,Corporate
+EB-3750,185,6,939.15,979,118.56,Turkey,Corporate
+EB-3840,44,6,1797.74,1216,382.25,Canada,Corporate
+EB-3870,498,5,184.87,715,-166.82,Nigeria,Consumer
+EB-3930,8,9,2433.52,1300,706.27,Saudi Arabia,Consumer
+EB-3975,36,9,2713.62,1252,377.19,Austria,Corporate
+EB-4110,21,10,2417.76,814,-391.95,Nigeria,Consumer
+EB-4170,55,6,1267.62,1297,288.84,Morocco,Consumer
+EC-14050,54,19,4430.24,1307,424.06,Argentina,Consumer
+EC-4050,163,7,2301.32,931,407.72,Cote d'Ivoire,Consumer
+ED-13885,16,31,18018.88,1398,2933.26,United States,Home Office
+ED-3885,57,8,525.47,1237,-360.82,Turkey,Home Office
+EG-13900,23,21,16562.35,1383,3360.55,United States,Consumer
+EG-3900,52,11,6549.95,1126,-756.31,Nigeria,Consumer
+EH-13765,3,29,20259.92,1442,1685.96,United States,Corporate
+EH-13945,58,27,7832.69,1285,1551.08,United States,Consumer
+EH-13990,45,26,8807.08,1401,1552.32,United States,Consumer
+EH-14005,3,28,10374.94,1419,285.65,United States,Home Office
+EH-14125,103,31,17408.31,1226,2105.89,United States,Home Office
+EH-14185,68,29,12800.51,1361,1241.89,United States,Consumer
+EH-3765,129,9,1010.38,1273,-1014.77,Nigeria,Corporate
+EH-3945,112,9,2518.74,1239,698.97,South Africa,Consumer
+EH-3990,34,6,672.49,1305,4.6,Democratic Republic of the Congo,Consumer
+EH-4005,197,7,2629.67,1157,509.0,Mozambique,Home Office
+EH-4125,23,13,5012.22,1194,-445.56,Turkey,Home Office
+EH-4185,122,8,3577.77,836,1039.62,Egypt,Consumer
+EJ-13720,50,22,8969.44,1384,1012.94,United States,Consumer
+EJ-14155,28,23,12324.84,1372,1975.12,United States,Consumer
+EJ-3720,157,8,1727.96,765,197.0,Iran,Consumer
+EJ-4155,23,5,2631.99,1280,819.45,Egypt,Consumer
+EK-13795,45,17,5597.35,1340,593.12,France,Home Office
+EK-3795,213,6,1531.08,564,172.35,Syria,Home Office
+EL-13735,54,23,10515.86,1348,1142.6,Mexico,Home Office
+EL-3735,27,11,3691.39,1155,12.94,Iran,Home Office
+EM-13810,79,23,13549.73,1224,1664.8,United States,Corporate
+EM-13825,56,26,14128.08,1182,2018.14,United States,Corporate
+EM-13960,3,37,25228.53,1448,2593.94,Mexico,Consumer
+EM-14065,17,17,12108.31,1242,3017.73,Australia,Consumer
+EM-14095,9,17,10889.7,1334,1684.95,United States,Corporate
+EM-14140,25,30,21507.29,1436,3683.12,United States,Home Office
+EM-14200,42,23,17087.78,1296,3138.34,Mexico,Home Office
+EM-3810,59,6,1032.88,797,232.57,Czech Republic,Corporate
+EM-3825,483,6,378.26,757,-30.07,Turkey,Corporate
+EM-3960,195,8,2855.87,1224,712.07,Moldova,Consumer
+EM-4065,53,9,3213.25,1186,921.73,Turkey,Consumer
+EM-4095,132,9,2833.56,1093,79.83,Madagascar,Corporate
+EM-4140,94,6,1900.79,992,-58.87,Kenya,Home Office
+EM-4200,152,4,2585.9,506,509.12,Morocco,Home Office
+EN-13780,15,20,6333.92,1370,478.53,United States,Consumer
+EN-3780,206,8,734.86,871,-240.83,Russia,Consumer
+EP-13915,13,33,16283.36,1308,2159.58,United States,Consumer
+EP-3915,76,3,487.95,1208,-55.62,Equatorial Guinea,Consumer
+ER-13855,70,19,13396.0,1232,2212.09,United States,Corporate
+ER-3855,54,7,3736.3,1398,373.63,Hungary,Corporate
+ES-14020,1,32,12827.27,1322,2761.39,China,Consumer
+ES-14080,29,24,16236.01,1400,1925.19,United States,Corporate
+ES-4020,29,7,1892.78,1194,365.99,Nigeria,Consumer
+ES-4080,146,9,1925.54,1192,250.1,Algeria,Corporate
+FA-14230,23,29,13535.06,1294,1245.26,United States,Corporate
+FA-4230,185,6,814.57,672,250.93,Morocco,Corporate
+FC-14245,43,23,10867.81,1192,2492.32,United States,Home Office
+FC-14335,108,23,8770.74,1280,1329.93,United States,Corporate
+FC-4245,492,6,1540.64,860,288.47,Iraq,Home Office
+FC-4335,111,4,550.95,1122,166.77,Democratic Republic of the Congo,Corporate
+FG-14260,35,18,9396.51,1286,1158.05,United States,Home Office
+FG-4260,111,9,308.21,1082,-123.94,Kazakhstan,Home Office
+FH-14275,5,23,13569.57,1396,3539.42,United States,Corporate
+FH-14350,2,20,10654.53,1201,2959.86,United States,Consumer
+FH-14365,2,30,27649.33,1310,4101.91,Mexico,Corporate
+FH-4275,135,5,113.06,817,8.15,Turkey,Corporate
+FH-4350,15,3,110.48,1141,-71.83,Nigeria,Consumer
+FH-4365,167,9,2751.35,1089,507.38,Turkey,Corporate
+FM-14215,8,31,14353.4,1429,1000.97,United States,Corporate
+FM-14290,37,30,14382.32,1187,2191.58,United States,Home Office
+FM-14380,146,21,6598.4,1260,1461.1,United States,Consumer
+FM-4215,97,6,2935.61,778,393.05,Morocco,Corporate
+FM-4290,3,8,2002.71,1074,409.71,Poland,Home Office
+FM-4380,2,6,843.54,649,-445.59,Turkey,Consumer
+FO-14305,23,37,15614.22,1414,2567.11,United States,Consumer
+FO-4305,52,10,2158.45,1077,456.64,Syria,Consumer
+FP-14320,24,29,9939.05,1258,840.64,United States,Consumer
+FP-4320,28,5,816.58,666,96.55,Turkey,Consumer
+FW-14395,64,26,16972.75,1283,1651.76,Bangladesh,Corporate
+FW-4395,1,8,1220.81,1307,32.03,Cameroon,Corporate
+GA-14515,23,24,12488.67,1301,1108.48,United States,Consumer
+GA-14725,3,24,8817.55,1416,1012.27,United States,Consumer
+GA-4515,36,7,1318.39,1304,-316.13,South Africa,Consumer
+GA-4725,71,4,1460.8,645,-240.29,Jordan,Consumer
+GB-14530,34,25,11657.75,1390,560.62,United States,Corporate
+GB-14575,14,24,10748.99,1106,1621.01,United States,Consumer
+GB-4530,114,5,525.9,1092,95.67,Austria,Corporate
+GB-4575,210,6,1821.91,846,12.25,South Africa,Consumer
+GD-14590,6,29,18005.0,1423,1826.52,Australia,Corporate
+GD-4590,353,4,700.69,147,61.63,Saudi Arabia,Corporate
+GG-14650,34,28,12902.96,1418,1491.59,United States,Corporate
+GG-4650,104,5,1000.42,209,31.93,Mongolia,Corporate
+GH-14410,21,36,13659.6,1329,47.47,United States,Home Office
+GH-14425,19,31,20039.76,1325,3375.23,France,Consumer
+GH-14485,52,21,14692.67,1378,2200.75,France,Corporate
+GH-14665,3,29,12921.45,1294,1877.94,United Kingdom,Consumer
+GH-4410,298,9,1610.22,817,566.34,Belarus,Home Office
+GH-4425,22,10,4585.83,1415,532.89,Morocco,Consumer
+GH-4485,86,4,794.62,677,95.2,Canada,Corporate
+GH-4665,2,9,1077.07,1436,-293.27,United Arab Emirates,Consumer
+GK-14620,13,24,19215.77,1294,3611.16,United States,Corporate
+GK-4620,101,4,764.6,1355,-115.87,Morocco,Corporate
+GM-14440,20,26,15782.46,1362,1431.28,United States,Consumer
+GM-14455,17,17,10523.65,1344,3106.23,United States,Home Office
+GM-14500,107,23,6704.19,1151,531.42,United States,Consumer
+GM-14680,2,31,12010.61,1447,-1804.82,Australia,Consumer
+GM-14695,48,19,14564.94,1319,-71.28,United States,Corporate
+GM-4440,2,8,735.22,1152,233.74,Egypt,Consumer
+GM-4455,209,4,488.43,231,-234.12,Turkey,Home Office
+GM-4500,105,5,4298.37,689,1021.83,Angola,Consumer
+GM-4680,73,6,1590.4,1003,466.9,Kyrgyzstan,Consumer
+GM-4695,223,7,791.5,1073,59.92,Romania,Corporate
+GP-14740,2,25,10793.73,1364,377.68,France,Corporate
+GP-4740,152,8,4610.1,954,872.43,Saudi Arabia,Corporate
+GR-14560,50,24,8895.06,1238,1030.99,Mexico,Corporate
+GR-4560,154,6,4955.53,1241,-534.71,Turkey,Corporate
+GT-14635,57,20,19080.35,1401,-3790.08,United Kingdom,Corporate
+GT-14710,9,30,34471.89,1386,5164.85,United States,Consumer
+GT-14755,35,23,5601.71,1338,593.33,India,Consumer
+GT-4635,10,7,1145.01,822,212.16,Sudan,Corporate
+GT-4710,56,4,1079.06,1024,49.28,Nigeria,Consumer
+GT-4755,1,8,3457.58,1337,190.85,Turkey,Consumer
+GW-14605,19,25,16239.49,1383,934.72,United States,Consumer
+GW-4605,15,8,1830.79,1290,264.34,Nigeria,Consumer
+GZ-14470,8,35,20869.7,1408,2885.99,United States,Consumer
+GZ-14545,77,24,11593.73,1119,2645.3,Mexico,Corporate
+GZ-4470,148,8,3835.63,1210,856.45,Democratic Republic of the Congo,Consumer
+GZ-4545,31,6,3698.39,1251,1460.3,Nigeria,Corporate
+HA-14905,70,24,15826.81,1211,-526.07,United States,Consumer
+HA-14920,21,25,9740.4,1396,1457.36,United States,Consumer
+HA-4905,14,4,1106.6,548,-235.63,Turkey,Consumer
+HA-4920,91,6,670.67,869,103.79,Canada,Consumer
+HD-14785,43,29,16749.14,1288,1803.14,Panama,Home Office
+HD-4785,107,7,3325.61,944,828.05,Democratic Republic of the Congo,Home Office
+HE-14800,7,27,9902.5,1425,1570.15,Brazil,Corporate
+HE-4800,37,8,1091.32,1029,140.29,Russia,Corporate
+HF-14995,15,28,9712.87,1419,-474.87,United States,Consumer
+HF-4995,391,8,2099.97,731,-178.26,Iran,Consumer
+HG-14845,13,30,21228.55,1330,-824.01,Australia,Consumer
+HG-14965,24,34,16810.69,1175,-1607.25,United States,Corporate
+HG-15025,7,29,14737.81,1429,1357.64,United States,Consumer
+HG-4845,142,9,2987.9,1107,532.52,Angola,Consumer
+HG-4965,100,5,354.59,1055,9.74,Canada,Corporate
+HG-5025,24,7,1476.61,1334,175.27,Egypt,Consumer
+HH-15010,55,24,13731.74,1219,2109.31,United Kingdom,Corporate
+HH-5010,197,3,1497.57,267,323.01,Tanzania,Corporate
+HJ-14875,6,32,14312.8,1337,2324.02,France,Home Office
+HJ-4875,311,6,1121.22,895,294.24,Russia,Home Office
+HK-14890,44,27,13886.44,1392,2306.94,United States,Corporate
+HK-4890,57,6,1656.97,580,187.99,Turkey,Corporate
+HL-15040,31,20,29664.23,1410,7657.5,United States,Consumer
+HL-5040,189,4,579.34,667,159.07,Saudi Arabia,Consumer
+HM-14860,2,37,27434.17,1258,6544.89,United States,Corporate
+HM-14980,26,29,12718.79,1209,1044.71,China,Consumer
+HM-4860,35,4,1042.77,1420,413.4,Lebanon,Corporate
+HM-4980,465,5,4409.3,649,1628.63,Democratic Republic of the Congo,Consumer
+HP-14815,31,24,7321.44,1347,636.22,United States,Home Office
+HP-4815,64,5,1196.68,511,244.0,Turkey,Home Office
+HR-14770,14,18,11126.93,1408,1182.9,United States,Home Office
+HR-14830,52,21,9637.15,1152,1517.88,United States,Corporate
+HR-4770,188,8,4550.32,1068,522.37,Democratic Republic of the Congo,Home Office
+HR-4830,149,3,391.94,739,-61.84,Turkey,Corporate
+HW-14935,35,28,17199.2,1143,2653.7,United States,Corporate
+HW-4935,57,7,1174.82,1139,-98.59,Iran,Corporate
+HZ-14950,36,22,9656.4,1204,1003.44,France,Consumer
+HZ-4950,209,6,2830.42,1245,-261.95,Turkey,Consumer
+IG-15085,14,25,10383.13,1333,657.5,Australia,Consumer
+IG-5085,2,12,5766.24,1259,1253.67,Angola,Consumer
+IL-15100,117,25,11802.69,1132,1244.23,United States,Consumer
+IL-5100,164,7,1052.81,1138,-63.16,Iraq,Consumer
+IM-15055,16,15,5154.84,1422,1534.03,France,Consumer
+IM-15070,41,27,17854.1,1077,-567.63,United States,Consumer
+IM-5055,20,7,4324.95,1126,913.95,Republic of the Congo,Consumer
+IM-5070,51,7,2064.07,1391,-112.67,Ukraine,Consumer
+JA-15970,1,25,17105.47,1289,688.97,United States,Consumer
+JA-5970,1,7,1057.23,925,153.36,Gabon,Consumer
+JB-15400,8,34,13085.5,1363,1992.26,United States,Corporate
+JB-15925,10,19,12325.29,1193,1649.13,China,Consumer
+JB-16000,2,32,22127.18,1364,2936.38,Colombia,Consumer
+JB-16045,1,24,13851.28,1244,778.63,United States,Home Office
+JB-5400,83,7,2172.03,693,459.6,South Africa,Corporate
+JB-5925,23,8,1012.09,768,-518.63,Albania,Consumer
+JB-6000,175,7,1881.01,1198,-68.45,Saudi Arabia,Consumer
+JB-6045,29,10,3235.66,1394,-529.58,Egypt,Home Office
+JC-15340,35,29,17836.28,1398,239.29,Pakistan,Consumer
+JC-15385,9,25,12978.93,1037,2086.8,Dominican Republic,Consumer
+JC-15775,2,25,10582.79,1203,1820.47,United States,Consumer
+JC-16105,58,28,11079.1,1349,712.31,United States,Corporate
+JC-5340,143,6,606.1,1315,98.51,Bulgaria,Consumer
+JC-5385,16,9,3183.08,1144,-782.23,Lithuania,Consumer
+JC-5775,14,5,1712.49,190,37.92,Cote d'Ivoire,Consumer
+JC-6105,103,6,3914.94,1050,-2601.42,Turkey,Corporate
+JD-15790,16,24,10267.75,1292,-293.68,United States,Consumer
+JD-15895,7,32,16711.32,1370,1430.55,United States,Corporate
+JD-16015,49,24,8690.63,1252,-29.4,United States,Consumer
+JD-16060,66,19,7683.04,1343,-24.03,France,Consumer
+JD-16150,1,28,18281.85,1204,1430.45,United States,Corporate
+JD-5790,300,5,1323.07,821,-905.03,Nigeria,Consumer
+JD-5895,3,6,2770.43,1235,296.24,Canada,Corporate
+JD-6015,43,8,2652.78,1068,-575.01,Nigeria,Consumer
+JD-6060,141,9,3541.44,795,588.93,South Africa,Consumer
+JD-6150,22,6,5329.77,1266,1194.87,Saudi Arabia,Corporate
+JE-15475,36,22,5905.08,1380,1223.32,United States,Consumer
+JE-15610,43,26,13192.69,1140,1780.08,United States,Corporate
+JE-15715,10,36,22275.27,1302,3648.01,United States,Consumer
+JE-15745,33,35,19629.13,1256,1123.48,United States,Consumer
+JE-16165,21,20,8352.72,1149,1839.81,Australia,Corporate
+JE-5475,28,8,914.18,1270,94.85,Ukraine,Consumer
+JE-5610,176,6,756.86,919,-408.16,Nigeria,Corporate
+JE-5715,87,7,180.3,1367,-27.12,Iraq,Consumer
+JE-5745,195,7,2275.5,1039,405.3,Czech Republic,Consumer
+JE-6165,37,8,4555.72,1054,1088.5,Libya,Corporate
+JF-15190,7,28,17064.71,1370,4108.55,United States,Consumer
+JF-15295,57,24,20382.25,1332,3263.3,United States,Consumer
+JF-15355,14,22,7343.57,1326,1016.67,United States,Consumer
+JF-15415,3,23,14717.47,1291,1396.65,United States,Consumer
+JF-15490,5,30,9234.53,1397,1048.32,United States,Consumer
+JF-15565,2,29,19844.15,1293,4329.95,United States,Consumer
+JF-5190,150,8,3510.17,1099,-2385.94,Turkey,Consumer
+JF-5295,64,8,2433.94,1318,-570.77,Nigeria,Consumer
+JF-5355,97,9,3475.76,1339,-2891.35,Turkey,Consumer
+JF-5415,38,11,8227.02,1264,1270.2,South Africa,Consumer
+JF-5490,100,7,1487.38,1295,151.78,Ukraine,Consumer
+JF-5565,421,6,3776.7,512,547.74,Egypt,Consumer
+JG-15115,69,19,12801.83,1225,1161.64,Mexico,Consumer
+JG-15160,2,32,19963.41,1310,4498.99,United States,Consumer
+JG-15310,3,24,12733.7,1270,2095.91,United States,Corporate
+JG-15805,1,37,22015.39,1366,3393.22,Germany,Corporate
+JG-5115,6,9,2907.68,1453,-2083.9,Turkey,Consumer
+JG-5160,17,8,1588.12,1099,50.11,Nigeria,Consumer
+JG-5310,44,5,836.99,1242,158.72,Mongolia,Corporate
+JG-5805,134,3,208.38,1056,-112.44,Turkey,Corporate
+JH-15430,6,31,11806.2,1451,1477.2,El Salvador,Consumer
+JH-15820,14,31,23586.72,1344,4829.67,Australia,Consumer
+JH-15910,42,32,12532.72,1288,1635.4,Mexico,Consumer
+JH-15985,12,38,18863.4,1449,-182.93,United States,Consumer
+JH-16180,51,31,18267.01,1323,2588.28,Italy,Consumer
+JH-5430,8,9,883.48,1178,113.5,Democratic Republic of the Congo,Consumer
+JH-5820,43,7,2359.01,1378,566.15,Saudi Arabia,Consumer
+JH-5910,41,8,4013.99,1323,-930.34,Czech Republic,Consumer
+JH-5985,53,7,2073.48,1147,569.61,Uzbekistan,Consumer
+JH-6180,28,9,5651.9,1052,1406.38,Iraq,Consumer
+JJ-15445,34,19,9696.85,1290,1054.36,United States,Consumer
+JJ-15760,3,28,18103.64,1182,1755.59,France,Home Office
+JJ-5445,20,6,2490.2,820,-31.66,Turkey,Consumer
+JJ-5760,269,6,1890.13,957,93.4,Saudi Arabia,Home Office
+JK-15205,62,24,10917.0,1243,2359.56,United States,Consumer
+JK-15325,78,28,17000.84,1262,2059.36,China,Corporate
+JK-15370,2,27,10189.51,1359,1813.5,United States,Consumer
+JK-15625,2,27,12754.41,1309,2805.65,United States,Consumer
+JK-15640,1,26,12637.45,1199,2651.11,United States,Home Office
+JK-15730,49,34,20825.89,1118,2283.76,United States,Consumer
+JK-16090,9,33,21918.74,1284,3195.37,China,Consumer
+JK-16120,98,26,13134.72,1277,1594.5,United States,Home Office
+JK-5205,592,5,1617.6,606,404.22,Moldova,Consumer
+JK-5325,461,3,203.39,979,-36.97,Nigeria,Corporate
+JK-5370,145,6,3211.45,1151,-263.45,Angola,Consumer
+JK-5625,317,8,4364.76,1065,1170.69,Canada,Consumer
+JK-5640,174,4,428.43,758,103.17,Democratic Republic of the Congo,Home Office
+JK-5730,484,6,5862.87,911,2089.74,Russia,Consumer
+JK-6090,13,5,1215.52,1220,-1397.12,Angola,Consumer
+JK-6120,141,6,2513.07,1135,299.7,Canada,Home Office
+JL-15130,9,28,12908.5,1373,967.88,France,Consumer
+JL-15175,7,27,13499.87,1442,1268.03,United States,Home Office
+JL-15235,14,24,18725.39,1380,4370.95,United States,Consumer
+JL-15505,31,22,8631.7,1201,644.27,United States,Consumer
+JL-15835,22,30,22594.04,1332,1576.54,United States,Consumer
+JL-15850,45,22,8497.68,1365,988.25,United States,Consumer
+JL-5130,198,12,5765.4,1054,72.3,Russia,Consumer
+JL-5175,125,5,1353.09,1122,433.14,Israel,Home Office
+JL-5235,2,4,1751.71,770,359.74,Canada,Consumer
+JL-5505,342,3,2729.34,950,542.01,Iraq,Consumer
+JL-5835,55,7,3388.28,1344,816.46,Azerbaijan,Consumer
+JL-5850,698,4,2003.6,634,-634.0,Turkey,Consumer
+JM-15250,36,24,15594.46,1203,2152.67,United States,Consumer
+JM-15265,38,29,15036.55,1347,2623.99,Australia,Corporate
+JM-15535,15,20,6942.4,1286,1460.24,India,Consumer
+JM-15580,1,24,13295.86,1437,1540.21,Brazil,Consumer
+JM-15655,9,34,16294.73,1398,1190.07,United States,Corporate
+JM-15865,69,29,20841.95,1113,2234.25,France,Consumer
+JM-16195,58,25,7825.56,1284,1314.31,United States,Consumer
+JM-5250,7,5,2424.2,1431,-488.02,Sudan,Consumer
+JM-5265,121,4,1131.91,364,156.1,Madagascar,Corporate
+JM-5535,244,5,847.83,1103,-101.31,Kazakhstan,Consumer
+JM-5580,50,5,880.32,1050,176.52,Nigeria,Consumer
+JM-5655,123,8,3602.67,799,608.46,Libya,Corporate
+JM-5865,71,6,1544.27,693,83.87,Democratic Republic of the Congo,Consumer
+JM-6195,13,8,1200.49,1412,205.48,Turkey,Consumer
+JO-15145,58,23,10440.98,1397,2280.95,United States,Corporate
+JO-15280,15,21,7123.57,1357,1203.1,United States,Consumer
+JO-15550,72,19,4002.89,1169,541.3,United States,Home Office
+JO-5145,6,6,2904.71,864,764.3,Madagascar,Corporate
+JO-5280,20,4,1694.85,1439,702.69,Iran,Consumer
+JO-5550,13,9,4203.78,1143,41.46,Togo,Home Office
+JP-15460,37,26,10916.37,1384,1639.94,United States,Corporate
+JP-15520,9,26,16429.05,1229,2854.75,United States,Consumer
+JP-16135,44,34,10163.51,1246,2036.01,United States,Home Office
+JP-5460,189,10,3294.02,1183,439.49,Iran,Corporate
+JP-5520,113,4,2227.52,531,315.41,Hungary,Consumer
+JP-6135,27,8,4432.65,904,1443.03,Saudi Arabia,Home Office
+JR-15670,13,20,13338.09,1400,-1185.99,China,Consumer
+JR-15700,8,18,9568.32,1444,815.85,India,Consumer
+JR-16210,19,21,12589.96,1157,1221.95,United States,Corporate
+JR-5670,129,6,2585.03,878,425.57,Czech Republic,Consumer
+JR-5700,14,6,1673.16,1233,116.67,Democratic Republic of the Congo,Consumer
+JR-6210,38,6,1033.29,1102,84.81,Rwanda,Corporate
+JS-15595,6,18,9334.64,1394,562.57,Germany,Corporate
+JS-15685,41,26,14338.52,1263,1848.05,United States,Corporate
+JS-15880,12,20,10443.1,1352,1471.05,United States,Consumer
+JS-15940,6,15,3874.77,1432,-26.76,United States,Home Office
+JS-16030,22,32,19218.81,1433,-675.45,United States,Consumer
+JS-5595,680,6,806.69,538,-723.76,Turkey,Corporate
+JS-5685,143,5,1944.06,787,502.44,Russia,Corporate
+JS-5880,209,6,1746.0,1060,-979.65,Nigeria,Consumer
+JS-5940,24,13,2927.34,1323,38.73,Turkey,Home Office
+JS-6030,219,4,1573.04,651,572.45,Cameroon,Consumer
+JW-15220,13,34,23103.73,1313,4115.15,United States,Corporate
+JW-15955,6,30,10640.83,1291,624.8,United States,Consumer
+JW-16075,2,25,19852.77,1379,2677.5,France,Consumer
+JW-5220,101,6,7184.72,742,2150.69,Mozambique,Corporate
+JW-5955,107,2,307.8,820,32.31,Egypt,Consumer
+JW-6075,267,4,747.21,583,272.52,Morocco,Consumer
+KA-16525,17,35,17449.9,1375,1299.91,United States,Consumer
+KA-6525,94,7,1429.88,955,101.48,Belarus,Consumer
+KB-16240,5,27,9900.7,1367,1801.54,United States,Corporate
+KB-16315,3,29,14542.76,1303,1420.09,United States,Consumer
+KB-16405,20,28,13786.09,1397,724.0,United States,Home Office
+KB-16585,94,27,16385.75,1274,1398.21,United States,Corporate
+KB-16600,2,25,10295.96,1322,887.35,United States,Corporate
+KB-6240,202,7,1945.32,612,517.53,Iran,Corporate
+KB-6315,23,11,2957.72,806,365.78,Democratic Republic of the Congo,Consumer
+KB-6405,388,3,238.55,357,-105.76,Turkey,Home Office
+KB-6585,372,2,216.78,401,-47.19,Iraq,Corporate
+KB-6600,10,11,1167.74,1262,158.9,Iran,Corporate
+KC-16255,45,27,9321.96,1278,2139.71,United States,Corporate
+KC-16540,42,25,18897.13,1254,2343.88,Dominican Republic,Consumer
+KC-16675,3,23,13531.28,1112,2265.91,Germany,Corporate
+KC-6255,58,8,1094.36,816,-160.21,Kazakhstan,Corporate
+KC-6540,34,7,505.89,1201,14.22,Moldova,Consumer
+KC-6675,20,3,391.84,1192,-120.95,Iraq,Corporate
+KD-16270,37,29,23204.27,1162,3914.23,United States,Consumer
+KD-16345,42,15,11157.04,1351,2363.13,India,Consumer
+KD-16495,47,36,24996.5,1144,5152.96,United States,Corporate
+KD-16615,76,24,12348.44,1093,1720.55,United States,Corporate
+KD-6270,812,1,813.06,0,-1023.54,Turkey,Consumer
+KD-6345,58,6,536.46,1076,65.7,Kenya,Consumer
+KD-6495,399,4,1454.76,898,333.21,Benin,Corporate
+KD-6615,187,3,205.98,639,30.18,Morocco,Corporate
+KE-16420,27,31,12928.69,1342,1186.16,United States,Corporate
+KE-6420,252,4,622.45,1029,100.39,South Africa,Corporate
+KF-16285,38,21,15164.87,1155,2976.39,United States,Home Office
+KF-6285,33,9,3100.15,1074,-591.2,Romania,Home Office
+KH-16330,17,26,15045.64,1354,3205.86,United States,Corporate
+KH-16360,2,28,9983.51,1400,1542.22,Australia,Consumer
+KH-16510,23,26,15340.4,1259,1713.8,United States,Consumer
+KH-16630,9,27,7220.7,1420,1205.67,United States,Corporate
+KH-16690,3,39,18158.46,1379,2367.49,United States,Corporate
+KH-6330,20,13,3371.21,1243,405.17,Ukraine,Corporate
+KH-6360,101,7,2221.36,908,300.16,Belarus,Consumer
+KH-6510,16,7,1544.34,995,483.03,Egypt,Consumer
+KH-6630,327,5,1795.87,759,300.31,Turkey,Corporate
+KH-6690,239,7,1696.01,1058,3.08,Turkey,Corporate
+KL-16555,16,26,12064.39,1317,580.92,United States,Corporate
+KL-16645,48,28,22553.11,1411,812.61,United States,Consumer
+KL-6555,176,7,2184.06,915,157.83,Egypt,Corporate
+KL-6645,1,5,1576.3,568,-657.71,South Africa,Consumer
+KM-16225,1,18,7754.55,1394,227.24,United States,Corporate
+KM-16375,3,28,16394.46,1320,1194.45,United States,Home Office
+KM-16660,16,29,10785.26,1440,888.34,Indonesia,Consumer
+KM-16720,29,23,14041.02,1344,1637.17,United States,Consumer
+KM-6225,372,3,891.36,328,142.29,Croatia,Corporate
+KM-6375,322,5,2124.7,916,256.63,Zambia,Home Office
+KM-6660,31,3,188.54,956,-40.45,Somalia,Consumer
+KM-6720,350,3,2928.65,631,1122.02,Iraq,Consumer
+KN-16390,20,29,19350.15,1143,4067.82,United States,Corporate
+KN-16450,38,26,16294.7,1421,2512.59,Australia,Corporate
+KN-16705,99,19,5884.78,1302,935.5,United States,Home Office
+KN-6390,274,3,318.72,482,77.37,Syria,Corporate
+KN-6450,94,8,1767.28,1239,-255.38,Turkey,Corporate
+KN-6705,124,5,4830.86,1167,763.01,Romania,Home Office
+KS-16300,36,21,5103.36,1356,1079.99,Cuba,Corporate
+KS-6300,107,4,221.61,748,33.69,Democratic Republic of the Congo,Corporate
+KT-16465,44,32,15725.04,1309,589.59,United States,Consumer
+KT-16480,28,20,6240.65,1365,-156.16,United States,Consumer
+KT-6465,106,7,1532.12,1274,398.0,Ukraine,Consumer
+KT-6480,85,7,2119.74,1259,-461.76,Egypt,Consumer
+KW-16435,27,23,15319.97,1175,3026.04,United States,Consumer
+KW-16570,23,34,9256.06,1400,2191.57,Australia,Consumer
+KW-6435,148,4,427.29,1266,80.97,Zambia,Consumer
+KW-6570,49,6,2577.72,1374,179.58,Turkey,Consumer
+LA-16780,14,34,24273.0,1400,3754.02,United States,Corporate
+LA-6780,2,12,3589.44,1190,208.29,South Africa,Corporate
+LB-16735,10,29,12686.04,1449,1566.24,Dominican Republic,Consumer
+LB-16795,40,31,24589.87,1377,4515.38,United States,Home Office
+LB-6735,138,7,1897.95,1180,98.25,Poland,Consumer
+LB-6795,57,8,1796.12,1279,-212.14,Turkey,Home Office
+LC-16870,28,21,9859.89,1377,1048.35,United States,Consumer
+LC-16885,17,29,17058.81,1421,1325.48,United States,Consumer
+LC-16930,42,26,11660.69,1368,1932.34,United States,Corporate
+LC-16960,3,22,11812.1,1126,1365.98,United States,Home Office
+LC-17050,5,23,12933.87,1425,1150.05,United States,Consumer
+LC-17140,14,30,13128.24,1240,1454.41,United States,Consumer
+LC-6870,24,8,1220.45,1225,128.42,Nigeria,Consumer
+LC-6885,210,9,1828.09,940,-152.96,Egypt,Consumer
+LC-6930,72,9,5080.69,1081,341.08,Egypt,Corporate
+LC-6960,192,8,2487.4,1154,54.73,Morocco,Home Office
+LC-7050,7,7,7193.65,828,1697.56,Algeria,Consumer
+LC-7140,17,6,2954.43,1140,470.88,Canada,Consumer
+LD-16855,43,30,13361.93,1268,1813.19,Indonesia,Corporate
+LD-17005,50,27,11461.65,1286,1252.64,India,Consumer
+LD-6855,81,8,2822.71,1249,-326.45,Nigeria,Corporate
+LD-7005,44,6,361.69,1376,-87.2,Turkey,Consumer
+LE-16810,15,24,10429.25,1338,1737.12,Spain,Consumer
+LE-6810,64,6,1049.52,1241,287.91,Poland,Consumer
+LF-17185,23,22,12864.72,1232,-3700.2,United States,Consumer
+LF-7185,178,5,556.52,713,55.85,Bulgaria,Consumer
+LH-16750,13,22,7945.09,1245,597.01,Mexico,Consumer
+LH-16900,22,29,12098.38,1254,995.4,United States,Consumer
+LH-17020,42,18,8189.79,1273,1040.35,Mexico,Consumer
+LH-17155,76,29,14063.49,1326,749.07,United States,Consumer
+LH-6750,126,5,745.65,731,44.19,Turkey,Consumer
+LH-6900,307,3,840.79,1022,1.99,Angola,Consumer
+LH-7020,59,3,973.21,987,297.73,Togo,Consumer
+LH-7155,128,8,3228.75,722,770.46,Russia,Consumer
+LL-16840,27,26,11287.78,1316,264.6,United States,Consumer
+LL-6840,36,9,3649.15,1281,630.34,Morocco,Consumer
+LM-17065,85,18,9249.38,1325,393.47,United States,Consumer
+LM-7065,8,4,6280.47,1010,1474.68,Algeria,Consumer
+LO-17170,3,28,11256.32,1426,2319.7,United States,Corporate
+LO-7170,5,7,2281.18,1097,-530.98,Turkey,Corporate
+LP-17080,41,24,7631.99,1282,-261.94,United States,Consumer
+LP-17095,10,26,15598.15,1358,2003.33,United States,Consumer
+LP-7080,185,7,1831.34,1250,-3.64,Cameroon,Consumer
+LP-7095,1,4,1011.36,1197,119.37,Canada,Consumer
+LR-16915,27,26,22434.09,1351,3604.46,United States,Consumer
+LR-17035,46,26,16118.97,1229,2165.7,United States,Corporate
+LR-6915,685,3,468.65,561,-232.75,Turkey,Consumer
+LR-7035,107,9,2677.98,1268,283.44,Morocco,Corporate
+LS-16945,28,20,10420.12,1318,-86.51,United States,Corporate
+LS-16975,21,22,8646.92,1273,1737.88,United States,Home Office
+LS-17200,16,24,15258.74,1415,1756.44,United States,Corporate
+LS-17230,5,24,10577.17,1450,1946.7,Australia,Consumer
+LS-17245,35,24,10758.99,1336,1878.18,United States,Consumer
+LS-6945,7,12,2726.03,910,18.65,Egypt,Corporate
+LS-6975,179,5,716.18,662,40.19,Canada,Home Office
+LS-7200,384,4,340.66,595,-102.47,Turkey,Corporate
+LS-7230,100,10,1164.35,1039,-569.29,Kazakhstan,Consumer
+LS-7245,218,6,953.15,1104,-380.05,Nigeria,Consumer
+LT-16765,7,30,17253.78,1432,3948.66,Nicaragua,Consumer
+LT-17110,35,26,12986.77,1389,1382.28,United States,Consumer
+LT-6765,9,4,1365.33,723,264.99,South Africa,Consumer
+LT-7110,56,6,8234.99,1246,1764.14,South Africa,Consumer
+LW-16825,23,20,9990.86,1356,982.01,United States,Corporate
+LW-16990,24,23,9111.85,1334,1335.35,United States,Corporate
+LW-17125,42,16,5369.27,1323,518.05,France,Consumer
+LW-17215,22,24,10529.49,1415,994.56,United States,Consumer
+LW-6825,33,11,881.75,883,166.79,Iran,Corporate
+LW-6990,15,11,1869.77,1444,151.58,Turkey,Corporate
+LW-7125,34,9,2677.34,1032,881.99,Kenya,Consumer
+LW-7215,133,5,1522.01,993,-145.18,Morocco,Consumer
+MA-17560,65,24,10813.79,1378,784.08,United States,Home Office
+MA-17995,43,22,10006.45,1281,889.32,United States,Home Office
+MA-7560,233,4,1628.17,965,-264.17,Iraq,Home Office
+MA-7995,17,11,1928.01,1425,213.36,Turkey,Home Office
+MB-17305,2,27,16729.35,1240,3481.41,United States,Consumer
+MB-18085,45,30,14744.23,1411,2236.31,Mexico,Consumer
+MB-7305,23,8,4874.59,1203,1140.94,Russia,Consumer
+MB-8085,12,8,1703.51,1435,359.66,Nigeria,Consumer
+MC-17275,45,34,11680.05,1256,1463.08,United States,Consumer
+MC-17425,24,30,15055.41,1358,3980.56,Mexico,Corporate
+MC-17575,28,33,14281.65,1207,966.03,United States,Consumer
+MC-17590,52,25,10118.84,1293,1337.61,United States,Corporate
+MC-17605,50,26,13019.2,1334,1296.29,United States,Corporate
+MC-17635,6,34,21113.51,1372,3529.49,Brazil,Corporate
+MC-17845,2,31,14947.88,1274,1064.31,United States,Consumer
+MC-18100,42,33,11353.75,1405,130.71,United States,Consumer
+MC-18130,52,23,8532.7,1258,717.16,United States,Corporate
+MC-7275,236,5,4301.04,1004,650.4,Russia,Consumer
+MC-7425,36,5,1489.85,1155,-1129.3,Nigeria,Corporate
+MC-7575,10,8,3619.19,1036,783.32,Saudi Arabia,Consumer
+MC-7590,337,3,1554.06,692,569.58,Russia,Corporate
+MC-7605,196,2,208.41,1079,70.68,Estonia,Corporate
+MC-7635,665,4,695.29,366,113.8,Egypt,Corporate
+MC-7845,35,4,991.73,1174,148.7,South Africa,Consumer
+MC-8100,105,3,659.34,1136,205.44,Iran,Consumer
+MC-8130,288,5,826.35,862,79.47,Cameroon,Corporate
+MD-17350,27,30,16455.33,1141,1040.96,United States,Consumer
+MD-17860,37,28,15575.65,1407,1596.31,United States,Corporate
+MD-7350,83,6,1374.2,1228,189.68,Rwanda,Consumer
+MD-7860,104,5,6853.51,849,2176.09,Saudi Arabia,Corporate
+ME-17320,6,30,24527.03,1449,3359.65,United States,Home Office
+ME-17725,29,28,7839.89,1337,323.48,United States,Consumer
+ME-18010,43,27,10547.63,1378,639.32,France,Corporate
+ME-7320,21,10,1720.19,1119,58.91,Nigeria,Home Office
+ME-7725,12,11,2083.88,1232,349.78,Croatia,Consumer
+ME-8010,393,1,160.5,0,15.9,Democratic Republic of the Congo,Corporate
+MF-17665,52,29,13366.53,1340,1417.47,France,Corporate
+MF-18250,8,32,20425.3,1302,2272.41,United States,Corporate
+MF-7665,49,3,161.91,1107,3.42,Iran,Corporate
+MF-8250,63,6,1517.55,1086,300.93,Ukraine,Corporate
+MG-17650,20,21,12717.27,1221,2178.17,United States,Home Office
+MG-17680,37,28,16061.64,1226,892.43,United States,Home Office
+MG-17695,1,25,16221.63,1254,760.91,Australia,Consumer
+MG-17875,6,33,14452.82,1401,-133.48,Australia,Home Office
+MG-17890,6,29,13162.25,1451,-977.3,United States,Home Office
+MG-18145,3,24,18147.96,1371,4668.16,Honduras,Consumer
+MG-18205,3,29,16362.9,1405,1540.23,India,Corporate
+MG-7650,496,1,301.71,0,27.15,South Africa,Home Office
+MG-7680,75,9,4298.48,614,-151.24,Nigeria,Home Office
+MG-7695,336,7,2104.6,1060,84.79,Turkey,Consumer
+MG-7875,404,1,80.19,0,15.87,Tanzania,Home Office
+MG-7890,374,1,19.13,0,-22.48,Turkey,Home Office
+MG-8145,282,3,5229.11,1063,1790.51,Democratic Republic of the Congo,Consumer
+MG-8205,2,7,1648.94,1313,282.2,South Africa,Corporate
+MH-17290,38,25,13718.7,1402,1950.61,United States,Home Office
+MH-17440,9,25,7945.05,1417,771.44,Germany,Corporate
+MH-17455,55,27,9974.27,1337,155.9,United States,Consumer
+MH-17620,24,20,11038.31,1391,106.88,Mexico,Corporate
+MH-17785,1,26,11676.13,1457,1185.03,China,Corporate
+MH-18025,21,19,11753.7,1252,1010.94,United States,Consumer
+MH-18115,6,26,12017.1,1238,1250.67,United States,Home Office
+MH-7290,738,3,1685.34,111,365.4,Ghana,Home Office
+MH-7440,97,8,3357.78,1232,780.57,Canada,Corporate
+MH-7455,93,10,4747.37,1019,371.15,Bulgaria,Consumer
+MH-7620,246,7,1179.67,946,168.01,Cameroon,Corporate
+MH-7785,8,9,1914.83,1237,285.5,Democratic Republic of the Congo,Corporate
+MH-8025,15,9,1095.43,1314,-149.75,Nigeria,Consumer
+MH-8115,59,7,1260.7,1133,237.52,Sierra Leone,Home Office
+MJ-17740,22,26,15347.66,1323,2054.66,United States,Consumer
+MJ-7740,160,4,1136.9,413,382.97,Turkey,Consumer
+MK-17905,22,31,13202.45,1310,-139.19,United States,Corporate
+MK-18160,23,20,10043.32,1383,317.56,United States,Consumer
+MK-7905,150,11,1244.96,1293,-71.44,Turkey,Corporate
+MK-8160,41,10,2697.07,1157,441.04,Poland,Consumer
+ML-17395,1,25,14507.08,1415,1141.97,United States,Corporate
+ML-17410,34,30,14981.7,1123,1338.59,United States,Consumer
+ML-17755,2,28,14425.1,1426,1577.42,Australia,Home Office
+ML-18040,8,19,8677.6,1405,1646.93,France,Corporate
+ML-18265,101,26,14674.0,1204,2037.58,Germany,Consumer
+ML-7395,133,7,1049.4,913,142.26,Albania,Corporate
+ML-7410,170,3,193.13,488,-184.45,Turkey,Consumer
+ML-7755,27,7,1108.5,1262,260.34,Somalia,Home Office
+ML-8040,45,7,1690.9,1364,315.91,Cote d'Ivoire,Corporate
+ML-8265,9,9,1170.72,1035,276.78,Turkey,Consumer
+MM-17260,5,26,15713.72,1361,3160.31,Guatemala,Consumer
+MM-17920,8,33,20383.65,1440,1824.22,United States,Consumer
+MM-18055,16,25,11163.59,1376,1901.28,United States,Consumer
+MM-18280,13,25,7134.3,1428,1877.07,United States,Corporate
+MM-7260,132,5,5510.36,1328,1220.42,Saudi Arabia,Consumer
+MM-7920,29,6,1350.03,825,234.69,Egypt,Consumer
+MM-8055,34,8,1924.91,1227,-638.5,Iran,Consumer
+MM-8280,72,10,3586.7,1345,289.4,Russia,Corporate
+MN-17935,9,21,12870.93,1405,1517.15,United States,Consumer
+MN-7935,31,6,2175.33,1007,-124.98,Turkey,Consumer
+MO-17500,37,24,10314.41,1371,573.46,Brazil,Consumer
+MO-17800,7,25,13709.12,1414,2638.81,United States,Home Office
+MO-17950,7,14,4527.39,1226,34.13,Germany,Consumer
+MO-7500,282,5,810.87,1139,-54.45,Turkey,Consumer
+MO-7800,15,9,4294.27,1120,465.28,Tanzania,Home Office
+MO-7950,99,3,933.19,687,252.13,Iraq,Consumer
+MP-17470,6,28,12928.8,1367,2231.36,United States,Home Office
+MP-17965,28,39,17228.5,1412,1455.21,United States,Corporate
+MP-18175,17,36,22045.25,1358,455.3,United States,Home Office
+MP-7470,544,2,58.11,331,-58.38,Nigeria,Home Office
+MP-7965,197,8,567.09,1007,177.48,Saudi Arabia,Corporate
+MP-8175,91,6,2169.17,777,77.3,Saudi Arabia,Home Office
+MR-17545,98,23,19246.71,1155,3060.92,Germany,Home Office
+MR-7545,101,6,2325.24,1075,650.31,Democratic Republic of the Congo,Home Office
+MS-17365,6,34,20317.01,1449,3300.32,United States,Consumer
+MS-17530,16,25,13335.04,1271,2150.45,Australia,Consumer
+MS-17710,30,26,8500.63,1365,1057.94,United States,Consumer
+MS-17770,35,36,17382.94,1289,2685.68,United States,Consumer
+MS-17830,24,26,11783.4,1428,1765.39,Australia,Consumer
+MS-17980,27,27,16210.57,1355,834.61,United States,Corporate
+MS-7365,112,5,1365.54,658,229.02,Libya,Consumer
+MS-7530,52,8,1456.81,886,-163.07,Kazakhstan,Consumer
+MS-7710,64,8,1529.46,863,94.8,Iraq,Consumer
+MS-7770,99,6,538.56,1017,166.11,Uzbekistan,Consumer
+MS-7830,5,8,4322.9,1004,294.89,Turkey,Consumer
+MS-7980,7,5,1654.64,761,412.73,Algeria,Corporate
+MT-17815,50,27,13845.52,1324,1295.0,United States,Consumer
+MT-18070,128,24,10920.4,1147,1203.57,United States,Home Office
+MT-7815,177,6,1500.59,1019,-501.58,Iran,Consumer
+MT-8070,324,7,6851.92,980,-2991.62,Turkey,Home Office
+MV-17485,17,27,10563.37,1424,1650.88,United States,Consumer
+MV-18190,20,30,15577.04,1411,1178.66,United States,Consumer
+MV-7485,471,5,952.54,896,159.76,Zambia,Consumer
+MV-8190,8,8,3995.04,1071,181.38,Nigeria,Consumer
+MW-18220,18,28,20592.08,1420,3596.31,United States,Consumer
+MW-18235,17,24,17933.06,1383,-180.24,Brazil,Corporate
+MW-8220,45,8,2476.5,1217,490.23,Saudi Arabia,Consumer
+MW-8235,1,6,1070.77,1115,325.75,Egypt,Corporate
+MY-17380,30,28,14724.15,1254,2926.33,United States,Corporate
+MY-18295,1,29,25570.49,1447,2553.68,United States,Corporate
+MY-7380,323,4,1745.57,1014,633.17,South Africa,Corporate
+MY-8295,44,10,4072.17,1303,88.98,Turkey,Corporate
+MZ-17335,22,26,14463.93,1335,1794.6,Australia,Home Office
+MZ-17515,24,25,13383.98,1377,1454.62,United States,Corporate
+MZ-7335,113,5,3494.23,497,459.91,Turkey,Home Office
+MZ-7515,79,9,3193.16,935,428.42,Iran,Corporate
+NB-18580,453,10,4875.6,740,-105.25,Argentina,Corporate
+NB-18655,20,22,9647.2,1156,1537.07,United States,Corporate
+NB-8580,429,7,1059.48,855,-586.17,South Africa,Corporate
+NB-8655,111,5,434.62,1322,-83.66,Iran,Corporate
+NC-18340,6,22,13905.35,1367,-996.24,United States,Consumer
+NC-18415,40,19,9255.79,1299,-771.64,United States,Consumer
+NC-18535,7,22,11054.38,1283,1414.98,United States,Corporate
+NC-18625,21,29,16901.52,1324,2229.91,Australia,Corporate
+NC-8340,36,9,2707.96,1400,535.36,Democratic Republic of the Congo,Consumer
+NC-8415,107,5,1503.43,1092,46.66,Nigeria,Consumer
+NC-8535,139,7,1250.87,1228,-79.6,Turkey,Corporate
+NC-8625,462,2,442.32,694,33.0,Guinea,Corporate
+ND-18370,13,23,10913.15,1435,1970.28,United States,Consumer
+ND-18460,6,22,12061.44,1418,2197.42,Australia,Corporate
+ND-8370,34,6,2790.23,1351,650.0,Ukraine,Consumer
+ND-8460,9,10,2722.98,1170,971.43,Mali,Corporate
+NF-18385,8,32,28044.36,1411,1362.27,United States,Consumer
+NF-18475,7,22,10630.91,1382,2633.76,Germany,Home Office
+NF-18595,12,22,10535.3,1442,1438.95,United States,Home Office
+NF-8385,2,11,3736.9,1118,180.55,Nigeria,Consumer
+NF-8475,44,7,2019.01,872,286.3,Canada,Home Office
+NF-8595,513,5,1731.94,820,-67.4,Algeria,Home Office
+NG-18355,49,21,9262.73,1373,1826.7,United States,Corporate
+NG-18430,28,28,18970.41,1253,3320.7,United States,Consumer
+NG-8355,104,7,2746.47,1355,979.74,Canada,Corporate
+NG-8430,19,8,3749.83,1353,890.53,Libya,Consumer
+NH-18610,21,22,19181.93,1380,3867.61,Indonesia,Corporate
+NH-8610,6,6,2121.52,934,207.85,Canada,Corporate
+NK-18490,27,24,11483.19,1277,2309.49,Brazil,Home Office
+NK-8490,207,4,2395.35,969,731.04,Morocco,Home Office
+NL-18310,26,25,10587.33,1328,-593.28,United States,Home Office
+NL-8310,576,2,251.32,205,26.35,Egypt,Home Office
+NM-18445,31,32,20223.24,1405,5095.16,United States,Home Office
+NM-18520,20,27,12328.61,1372,2631.05,United States,Consumer
+NM-8445,34,9,4053.72,1334,693.96,Poland,Home Office
+NM-8520,159,1,1540.53,0,511.65,Uzbekistan,Consumer
+NP-18325,2,25,11778.49,1394,1772.79,United States,Consumer
+NP-18670,59,19,12839.01,1102,2741.6,Germany,Consumer
+NP-18685,15,30,11363.43,1381,308.27,Brazil,Home Office
+NP-18700,29,27,14036.43,1185,609.69,United States,Consumer
+NP-8325,16,8,1336.69,859,31.54,Canada,Consumer
+NP-8670,227,6,2871.87,781,294.06,Georgia,Consumer
+NP-8685,115,4,4994.85,668,1250.76,South Africa,Home Office
+NP-8700,38,6,1880.62,752,-234.14,Egypt,Consumer
+NR-18550,3,26,10993.42,1301,1206.92,United States,Consumer
+NR-8550,15,8,1898.48,999,463.04,Morocco,Consumer
+NS-18505,7,25,14834.29,1428,479.1,United States,Consumer
+NS-18640,37,37,14866.09,1249,1116.05,United States,Corporate
+NS-8505,14,5,962.85,1226,-1166.55,Nigeria,Consumer
+NS-8640,48,8,1771.44,1129,-297.33,Morocco,Corporate
+NW-18400,173,26,15326.83,1251,2085.49,United States,Consumer
+NW-8400,118,7,7046.74,1283,1736.05,Turkey,Consumer
+NZ-18565,86,26,19941.7,1224,2257.84,United States,Home Office
+NZ-8565,100,4,328.58,776,-166.57,Turkey,Home Office
+ON-18715,48,33,17763.95,1367,3779.17,United States,Corporate
+ON-8715,460,5,1507.76,866,-995.86,Turkey,Corporate
+OT-18730,34,32,19493.77,1163,1797.76,United States,Consumer
+OT-8730,243,4,265.05,865,33.24,Kazakhstan,Consumer
+PA-19060,24,21,6723.23,1347,647.89,Dominican Republic,Home Office
+PA-9060,178,6,3670.58,1238,907.46,Nigeria,Home Office
+PB-18805,9,19,12075.4,1253,1479.58,United States,Home Office
+PB-19105,58,16,8087.78,1392,1615.65,Netherlands,Consumer
+PB-19150,6,33,7907.26,1281,460.2,United States,Consumer
+PB-19210,9,27,18967.66,1337,2313.68,Indonesia,Corporate
+PB-8805,121,9,2787.67,1028,263.5,Poland,Home Office
+PB-9105,1,4,1808.21,274,320.54,Belarus,Consumer
+PB-9150,42,10,3478.44,1240,811.65,Iraq,Consumer
+PB-9210,308,7,5302.2,931,-909.72,Yemen,Corporate
+PC-18745,3,21,10693.5,1367,-904.33,United States,Corporate
+PC-19000,22,18,9474.07,1344,519.62,Australia,Home Office
+PC-8745,58,5,1246.56,1037,484.23,Bulgaria,Corporate
+PC-9000,573,4,1160.43,431,313.71,Kenya,Home Office
+PF-19120,85,28,27993.05,1302,623.4,United States,Consumer
+PF-19165,92,36,16018.84,1359,1486.35,United States,Consumer
+PF-19225,3,30,11915.2,1155,1613.62,Germany,Consumer
+PF-9120,84,10,1882.95,994,439.89,Austria,Consumer
+PF-9165,35,7,2007.64,1261,422.53,Algeria,Consumer
+PF-9225,15,7,1474.27,1230,-672.77,Turkey,Consumer
+PG-18820,21,35,14635.94,1312,1626.92,United States,Consumer
+PG-18895,3,28,13941.69,1406,1270.1,United States,Consumer
+PG-8820,31,6,1846.56,1412,348.27,Bosnia and Herzegovina,Consumer
+PG-8895,300,6,1981.3,1072,350.08,Iraq,Consumer
+PH-18790,58,19,9435.57,1293,2390.08,Australia,Home Office
+PH-8790,115,8,1746.84,1294,353.55,Democratic Republic of the Congo,Home Office
+PJ-18835,40,19,13639.5,1297,4889.27,United States,Corporate
+PJ-19015,20,22,9230.88,1345,1212.81,United States,Consumer
+PJ-8835,43,6,801.4,923,-870.14,Nigeria,Corporate
+PJ-9015,197,8,6612.66,1099,889.68,Turkey,Consumer
+PK-18910,99,16,7282.58,1269,319.16,Mexico,Home Office
+PK-19075,9,29,17668.91,1277,2170.26,United States,Consumer
+PK-8910,122,4,948.46,906,-627.65,Iran,Home Office
+PK-9075,495,3,992.78,186,-505.69,Turkey,Consumer
+PL-18925,16,20,14256.72,1405,1782.97,China,Home Office
+PL-8925,50,3,759.21,589,223.53,Iran,Home Office
+PM-18940,22,23,12893.59,1430,926.33,France,Consumer
+PM-19135,13,22,9857.66,1268,648.85,United States,Home Office
+PM-8940,56,9,1448.86,1281,252.07,Turkey,Consumer
+PM-9135,302,6,1429.3,1090,369.79,Liberia,Home Office
+PN-18775,16,33,11370.47,1225,1729.75,United States,Home Office
+PN-8775,54,5,1522.11,1163,475.71,Cote d'Ivoire,Home Office
+PO-18850,5,41,25274.47,1431,3249.28,United States,Consumer
+PO-18865,1,35,21051.06,1451,4698.64,United States,Consumer
+PO-19180,161,24,16753.17,712,2556.74,United States,Home Office
+PO-19195,87,21,10872.01,1370,-1667.69,Brazil,Home Office
+PO-8850,128,4,1432.99,1302,529.09,South Africa,Consumer
+PO-8865,353,6,2973.15,879,-80.52,Algeria,Consumer
+PO-9180,30,9,1231.07,1391,-380.95,Moldova,Home Office
+PO-9195,34,8,8227.36,1353,641.59,Morocco,Home Office
+PP-18955,55,30,21884.18,1177,2902.39,United States,Home Office
+PP-8955,15,3,359.06,1293,-214.66,Nigeria,Home Office
+PR-18880,26,29,13243.62,1331,1362.83,United States,Consumer
+PR-8880,197,5,1085.64,1068,-953.7,Nigeria,Consumer
+PS-18760,30,28,15926.55,1302,1485.31,United States,Consumer
+PS-18970,28,33,18222.4,1412,2205.43,United States,Home Office
+PS-19045,21,26,29252.32,1335,4426.2,United States,Home Office
+PS-8760,348,5,1706.2,858,-192.2,Democratic Republic of the Congo,Consumer
+PS-8970,125,4,1395.95,1005,-371.23,Turkey,Home Office
+PS-9045,62,7,829.36,1158,-87.38,Czech Republic,Home Office
+PT-19090,7,25,8370.78,1200,216.67,United States,Consumer
+PT-9090,3,5,4686.03,884,393.03,Egypt,Consumer
+PV-18985,9,28,12540.66,1260,2531.14,United States,Home Office
+PV-8985,145,6,6390.64,1076,1524.43,Russia,Home Office
+PW-19030,8,31,12810.06,1435,2322.4,United States,Corporate
+PW-19240,2,24,7186.14,1310,1837.42,United States,Consumer
+PW-9030,58,7,1081.0,921,-377.6,Turkey,Corporate
+PW-9240,62,7,1237.53,1337,104.88,South Africa,Consumer
+QJ-19255,26,23,18192.92,1395,2407.6,United States,Corporate
+QJ-9255,62,5,387.05,1227,-164.41,Senegal,Corporate
+RA-19285,6,24,16816.43,1278,4132.9,United States,Consumer
+RA-19885,44,23,15435.5,1320,3419.96,United States,Corporate
+RA-19915,13,27,20975.19,1445,2078.76,United States,Consumer
+RA-19945,2,23,11696.03,1219,678.96,United States,Consumer
+RA-9285,255,14,6226.69,1120,-1519.82,Turkey,Consumer
+RA-9885,126,8,503.27,1084,-99.49,Ukraine,Corporate
+RA-9915,140,2,420.66,448,85.44,Iran,Consumer
+RA-9945,21,9,2044.59,1414,217.77,Ukraine,Consumer
+RB-19330,16,32,18359.77,1281,3737.59,Mexico,Consumer
+RB-19360,21,25,29197.63,1286,8523.95,United States,Consumer
+RB-19435,20,28,11618.08,1424,605.44,United States,Consumer
+RB-19465,1,36,17178.44,1388,2769.65,United States,Home Office
+RB-19570,21,25,10961.63,1156,1646.11,Spain,Consumer
+RB-19645,151,22,5973.59,1076,754.28,United States,Corporate
+RB-19705,17,16,9288.08,1383,2069.08,China,Home Office
+RB-19795,33,35,19056.88,1414,2323.66,United States,Home Office
+RB-9330,113,8,4538.26,1329,413.77,Ukraine,Consumer
+RB-9360,94,4,404.51,1127,-70.9,Kenya,Consumer
+RB-9435,217,6,3179.15,1123,-1731.1,Lithuania,Consumer
+RB-9465,288,3,3675.24,924,1296.81,Iraq,Home Office
+RB-9570,447,5,586.76,690,-150.19,Algeria,Consumer
+RB-9645,240,3,282.59,861,-114.16,Algeria,Corporate
+RB-9705,150,12,6018.07,1185,810.46,Saudi Arabia,Home Office
+RB-9795,31,5,255.29,648,26.87,Cote d'Ivoire,Home Office
+RC-19825,119,25,7916.67,1332,737.75,Mexico,Consumer
+RC-19960,23,22,7897.87,1418,1758.09,United States,Consumer
+RC-9825,742,1,37.44,0,0.0,Hungary,Consumer
+RC-9960,113,5,1639.96,784,365.92,Nigeria,Consumer
+RD-19480,1,27,16487.19,1302,3316.93,United States,Consumer
+RD-19585,26,31,16315.11,1344,2450.57,United States,Consumer
+RD-19660,94,21,12947.97,1362,3171.7,Germany,Home Office
+RD-19720,22,30,10902.53,1318,1897.12,United States,Consumer
+RD-19810,15,30,7091.1,1287,1417.28,United States,Home Office
+RD-19900,33,29,13485.75,1380,2475.08,United States,Consumer
+RD-19930,43,22,9293.59,1354,683.39,United States,Consumer
+RD-9480,48,6,1061.73,1158,270.51,Egypt,Consumer
+RD-9585,36,7,5168.4,706,1469.4,Sudan,Consumer
+RD-9660,28,9,3391.79,1346,794.18,Turkey,Home Office
+RD-9720,59,8,3833.71,1390,1139.89,Democratic Republic of the Congo,Consumer
+RD-9810,54,7,3214.79,614,522.62,Turkey,Home Office
+RD-9900,93,10,4837.22,1349,855.59,Ukraine,Consumer
+RD-9930,29,11,6523.39,1133,546.97,Iran,Consumer
+RE-19405,29,21,12073.09,1359,2356.01,Australia,Consumer
+RE-19450,24,18,10660.49,1284,1501.19,United States,Consumer
+RE-9405,72,6,1967.4,481,287.67,Morocco,Consumer
+RE-9450,16,12,5678.7,1142,890.22,Saudi Arabia,Consumer
+RF-19345,65,27,13391.27,1337,2277.38,United States,Corporate
+RF-19735,2,23,12139.09,1406,824.76,United States,Consumer
+RF-19840,7,31,15077.48,1338,3052.17,United States,Consumer
+RF-9345,7,5,3208.03,832,816.58,Saudi Arabia,Corporate
+RF-9735,119,3,950.13,91,298.77,Israel,Consumer
+RF-9840,139,6,571.72,998,-210.44,Nigeria,Consumer
+RH-19495,25,28,13295.75,1315,1457.38,France,Consumer
+RH-19510,21,25,11599.39,1388,1801.0,United States,Home Office
+RH-19555,8,21,8944.31,1223,293.0,Dominican Republic,Consumer
+RH-19600,7,21,4629.7,1302,329.75,United States,Consumer
+RH-9495,97,3,3057.21,704,393.51,Ukraine,Consumer
+RH-9510,701,7,1837.79,639,-136.33,Nigeria,Home Office
+RH-9555,27,8,8753.47,1235,1709.8,Saudi Arabia,Consumer
+RH-9600,174,8,3340.47,877,892.62,Egypt,Consumer
+RK-19300,86,26,13480.92,1296,-1673.57,Brazil,Consumer
+RK-9300,29,4,519.12,825,117.78,Kenya,Consumer
+RL-19615,121,23,14866.82,1284,2337.14,United States,Consumer
+RL-9615,266,8,2420.23,916,366.85,Saudi Arabia,Consumer
+RM-19375,19,25,16077.68,1328,1331.51,El Salvador,Consumer
+RM-19675,5,19,11151.96,1139,2810.51,United States,Home Office
+RM-19750,17,19,6475.01,1355,1314.88,Australia,Consumer
+RM-9375,10,7,2239.45,1237,523.9,Israel,Consumer
+RM-9675,37,8,1715.09,1119,-268.27,Turkey,Home Office
+RM-9750,41,7,929.18,1150,-64.54,Kazakhstan,Consumer
+RO-19780,36,29,18833.44,1300,710.69,United States,Consumer
+RO-9780,5,9,3080.11,1401,158.2,Algeria,Consumer
+RP-19270,8,26,13725.58,1364,1507.91,United States,Corporate
+RP-19390,16,34,16114.91,1417,-452.08,United States,Consumer
+RP-19855,22,27,11043.08,1428,428.41,United States,Corporate
+RP-9270,287,6,1274.35,1060,394.81,Russia,Corporate
+RP-9390,271,7,5935.98,1061,1520.46,Cote d'Ivoire,Consumer
+RP-9855,401,6,3569.14,722,-289.55,Turkey,Corporate
+RR-19315,20,21,11765.04,1410,2304.38,Australia,Consumer
+RR-19525,1,27,15009.29,1390,-99.16,United States,Corporate
+RR-9315,233,4,1820.85,949,534.6,Poland,Consumer
+RR-9525,90,7,1376.91,779,51.18,Turkey,Corporate
+RS-19420,77,28,14047.15,1196,1771.03,United States,Corporate
+RS-19765,37,25,13582.12,1328,3046.32,United States,Corporate
+RS-19870,20,20,7090.96,1150,1222.85,France,Home Office
+RS-9420,34,7,385.44,1418,52.62,South Africa,Corporate
+RS-9765,124,6,1524.15,1172,425.85,Russia,Corporate
+RS-9870,21,8,1031.44,1287,240.58,Bosnia and Herzegovina,Home Office
+RW-19540,43,25,19423.69,1329,3925.02,United States,Corporate
+RW-19630,78,26,9425.92,1337,1999.62,United States,Corporate
+RW-19690,16,25,11200.14,1154,2312.26,United States,Consumer
+RW-9540,27,7,5698.43,1382,1252.4,South Africa,Corporate
+RW-9630,400,2,560.01,754,252.6,Benin,Corporate
+RW-9690,99,8,1399.0,1209,-175.25,Turkey,Consumer
+SA-10830,11,10,872.68,1181,-56.54,South Africa,Consumer
+SA-20830,64,30,15622.38,1373,1411.25,United States,Consumer
+SB-10170,27,5,1647.24,461,24.06,Turkey,Consumer
+SB-10185,79,7,1268.44,1196,223.3,Morocco,Consumer
+SB-10290,192,5,1975.4,326,-120.67,Turkey,Corporate
+SB-20170,3,15,12950.93,1302,2342.9,China,Consumer
+SB-20185,75,31,21034.46,1328,1445.36,United States,Consumer
+SB-20290,42,22,18538.53,1291,-1776.31,United States,Corporate
+SC-10020,265,4,476.33,885,-115.51,Turkey,Consumer
+SC-10050,43,7,2311.85,1183,358.85,Mozambique,Home Office
+SC-10095,226,7,918.52,1025,99.16,Egypt,Consumer
+SC-10230,195,3,1793.91,1205,286.32,Morocco,Corporate
+SC-10260,142,7,3166.52,777,-42.88,Turkey,Corporate
+SC-10305,17,7,3207.18,815,-213.15,Nigeria,Consumer
+SC-10380,276,4,1556.16,969,410.13,Madagascar,Consumer
+SC-10440,93,4,1929.08,1357,-533.44,Nigeria,Corporate
+SC-10575,374,2,328.02,496,41.64,Iraq,Consumer
+SC-10680,190,4,6344.79,1171,543.36,Niger,Home Office
+SC-10695,175,4,1468.9,692,-350.48,South Africa,Corporate
+SC-10725,92,7,2944.49,977,191.21,Central African Republic,Consumer
+SC-10770,185,7,2033.21,1020,-127.66,Turkey,Corporate
+SC-10800,360,2,89.29,481,-77.84,Nigeria,Consumer
+SC-10845,54,4,1368.12,1062,261.66,Mauritania,Consumer
+SC-20020,9,34,10579.47,1401,1231.52,United States,Consumer
+SC-20050,41,30,16813.22,1412,-340.43,United States,Home Office
+SC-20095,76,28,25602.61,1342,8106.22,United States,Consumer
+SC-20230,17,25,20333.87,1272,2785.05,United States,Corporate
+SC-20260,1,26,9366.19,1374,1265.55,United States,Corporate
+SC-20305,30,26,17696.72,1141,675.43,United States,Consumer
+SC-20380,31,37,16122.72,1371,1282.25,United States,Consumer
+SC-20440,10,25,7677.44,1323,890.46,United States,Corporate
+SC-20575,28,33,9685.42,1293,896.36,Mexico,Consumer
+SC-20680,22,31,13477.06,1429,1165.43,United States,Home Office
+SC-20695,10,35,21931.04,1327,2516.16,United States,Corporate
+SC-20725,8,30,13975.42,1300,1874.83,United States,Consumer
+SC-20770,41,32,14495.11,1351,445.75,United States,Corporate
+SC-20800,31,24,11321.28,1418,1354.2,Germany,Consumer
+SC-20845,9,24,9898.63,1295,1435.04,Mexico,Consumer
+SD-10485,41,8,1157.34,1028,216.3,Sudan,Home Office
+SD-20485,16,32,16802.06,1429,3430.92,United States,Home Office
+SE-10110,79,3,613.71,847,152.16,Democratic Republic of the Congo,Consumer
+SE-20110,10,36,29532.63,1351,5863.62,United States,Consumer
+SF-10065,230,8,3861.43,1170,792.01,Romania,Consumer
+SF-10200,142,8,2633.32,988,-1384.4,Czech Republic,Consumer
+SF-10965,181,6,2476.3,1049,656.35,Iran,Corporate
+SF-20065,59,21,7395.75,1325,1073.64,United States,Consumer
+SF-20200,6,28,13019.63,1425,2214.17,United States,Consumer
+SF-20965,49,17,6777.68,1184,1238.83,United States,Corporate
+SG-10080,370,6,1078.73,954,331.91,Tanzania,Consumer
+SG-10470,129,3,3086.67,836,867.66,Georgia,Consumer
+SG-10605,234,6,2816.07,1087,211.5,Turkey,Consumer
+SG-10890,401,6,1424.78,645,301.01,Nigeria,Corporate
+SG-20080,4,17,10774.5,1324,2551.8,United States,Consumer
+SG-20470,91,28,10730.28,1300,1471.33,United States,Consumer
+SG-20605,76,32,10128.54,1362,1329.61,United States,Consumer
+SG-20890,17,22,11260.3,1356,240.3,United Kingdom,Corporate
+SH-10395,64,4,129.03,1177,-52.83,Canada,Consumer
+SH-10635,159,4,658.98,831,129.87,Russia,Corporate
+SH-19975,26,29,10893.51,1377,987.22,United States,Corporate
+SH-20395,24,33,12849.17,1432,1112.06,United States,Consumer
+SH-20635,31,25,13546.75,1321,1848.31,China,Corporate
+SH-9975,65,8,8058.15,1376,808.14,Nigeria,Corporate
+SJ-10125,295,9,2961.19,1157,364.63,Saudi Arabia,Home Office
+SJ-10215,57,9,1359.25,1100,179.05,Georgia,Consumer
+SJ-10500,275,3,454.07,670,34.58,Georgia,Consumer
+SJ-20125,33,30,10562.09,1083,1463.37,United States,Home Office
+SJ-20215,29,32,14709.7,1381,2332.81,United States,Consumer
+SJ-20500,176,26,12930.79,1262,1547.23,France,Consumer
+SK-19990,9,19,10932.97,1272,2320.06,Mexico,Consumer
+SK-9990,31,7,2358.86,963,655.46,Algeria,Consumer
+SL-10155,167,14,2451.78,1185,655.74,Ukraine,Home Office
+SL-20155,30,32,14380.69,1224,1244.19,United States,Home Office
+SM-10005,105,8,6262.38,1092,1177.89,Russia,Consumer
+SM-10320,77,7,4045.64,1206,673.97,Cote d'Ivoire,Home Office
+SM-10905,133,5,1711.99,850,247.78,Iran,Consumer
+SM-10950,105,9,1336.31,1188,161.42,Iran,Corporate
+SM-20005,148,22,6801.59,1150,350.47,United Kingdom,Consumer
+SM-20320,22,21,31125.29,1363,-1083.67,United States,Home Office
+SM-20905,38,17,6918.48,1386,1280.49,France,Consumer
+SM-20950,26,29,11552.78,1416,1009.44,United States,Corporate
+SN-10560,14,6,1480.1,1399,-110.86,Nigeria,Home Office
+SN-10710,253,4,702.24,1195,89.4,Austria,Home Office
+SN-20560,72,25,12738.71,1313,-2527.12,United States,Home Office
+SN-20710,45,24,12703.94,1375,2295.45,United States,Home Office
+SO-10335,401,4,831.5,816,17.42,Democratic Republic of the Congo,Consumer
+SO-20335,30,27,15534.95,1320,2389.63,United States,Consumer
+SP-10545,19,4,418.32,780,51.09,Kenya,Corporate
+SP-10620,140,5,299.57,1151,-225.01,Kazakhstan,Corporate
+SP-10650,170,6,770.9,918,-56.47,Nigeria,Corporate
+SP-10860,399,2,503.5,881,62.14,Morocco,Corporate
+SP-10920,108,4,896.39,735,-165.22,Nigeria,Consumer
+SP-20545,17,20,6801.2,1216,698.14,United States,Corporate
+SP-20620,6,31,19113.67,1205,242.05,United States,Corporate
+SP-20650,21,24,10377.87,1409,1739.28,United States,Corporate
+SP-20860,55,26,12994.59,1365,1688.55,United States,Corporate
+SP-20920,7,28,28124.21,1204,6649.63,United States,Consumer
+SR-10425,45,5,281.21,618,-6.46,Canada,Home Office
+SR-10740,22,4,2154.12,991,291.27,Iran,Home Office
+SR-20425,9,19,12721.25,1439,-2544.73,South Korea,Home Office
+SR-20740,24,33,17220.18,1386,4096.09,United States,Home Office
+SS-10140,30,7,3491.63,1063,905.39,Mongolia,Corporate
+SS-10410,27,10,2348.46,1114,318.63,Canada,Consumer
+SS-10515,675,3,424.53,570,130.38,Sudan,Home Office
+SS-10590,29,3,940.38,1209,354.18,Ghana,Consumer
+SS-10875,251,4,556.31,688,-707.83,Nigeria,Consumer
+SS-20140,16,32,20138.6,1378,-1517.72,United States,Corporate
+SS-20410,34,27,15759.48,1278,-187.12,United States,Consumer
+SS-20515,1,19,7480.62,1266,285.97,United States,Home Office
+SS-20590,6,26,12181.43,1239,2015.95,Indonesia,Consumer
+SS-20875,15,21,4772.15,1425,147.85,United States,Consumer
+ST-10530,96,6,943.26,1062,159.54,Egypt,Consumer
+ST-20530,7,32,14064.01,1415,2074.56,United States,Consumer
+SU-10665,49,6,3331.13,716,564.68,Uganda,Home Office
+SU-20665,5,23,7442.46,1299,-54.43,United States,Home Office
+SV-10365,184,5,1256.47,754,258.25,Canada,Consumer
+SV-10785,22,7,2969.43,1433,260.85,Madagascar,Consumer
+SV-10815,9,9,7728.91,862,-537.14,Turkey,Corporate
+SV-10935,12,3,487.75,1375,-331.69,Nigeria,Consumer
+SV-20365,88,31,22376.45,1362,1964.5,United States,Consumer
+SV-20785,23,27,14262.94,1436,1921.94,United States,Consumer
+SV-20815,35,24,14575.5,1254,1515.81,Mexico,Corporate
+SV-20935,1,28,15197.69,1307,1000.17,United States,Consumer
+SW-10245,23,4,1901.91,1079,325.59,Jordan,Consumer
+SW-10275,50,5,1480.58,1308,159.26,Canada,Consumer
+SW-10350,101,9,1244.45,685,-4.9,Kenya,Home Office
+SW-10455,8,9,2205.25,1420,399.37,Iran,Consumer
+SW-10755,44,7,2346.91,1174,499.03,Cote d'Ivoire,Corporate
+SW-20245,13,26,13576.68,1345,1622.77,United States,Consumer
+SW-20275,22,33,15564.97,1402,884.93,Australia,Consumer
+SW-20350,13,21,6923.25,1361,1036.44,United States,Home Office
+SW-20455,8,22,6038.02,1449,764.2,United States,Consumer
+SW-20755,16,31,23321.58,1293,2295.71,France,Corporate
+SZ-10035,957,4,1164.15,452,130.62,Iran,Home Office
+SZ-20035,14,37,15192.38,1360,2785.23,United States,Home Office
+TA-11385,9,5,4819.95,1035,36.99,Kyrgyzstan,Home Office
+TA-21385,19,25,35668.12,1264,6274.99,Mexico,Home Office
+TB-11055,325,3,2355.14,604,533.06,Iraq,Consumer
+TB-11175,217,4,850.33,324,175.36,Tanzania,Corporate
+TB-11190,115,4,1115.37,557,179.49,Iraq,Home Office
+TB-11250,2,15,7270.84,1202,656.02,Turkey,Consumer
+TB-11280,157,9,1574.32,1304,193.03,Canada,Consumer
+TB-11355,15,8,438.16,811,-321.98,Nigeria,Corporate
+TB-11400,112,9,3103.32,1112,724.59,Iran,Consumer
+TB-11520,19,11,3991.52,1208,455.45,Namibia,Consumer
+TB-11595,163,4,752.07,498,219.63,Russia,Consumer
+TB-11625,399,5,1810.75,1017,-366.86,Democratic Republic of the Congo,Consumer
+TB-21055,36,29,13671.71,1412,1026.21,United States,Consumer
+TB-21175,40,27,16573.6,1198,2111.05,United States,Corporate
+TB-21190,50,17,10686.47,1328,1872.82,India,Home Office
+TB-21250,3,28,11830.09,1222,2409.69,United States,Consumer
+TB-21280,58,26,10127.01,1250,1054.43,United States,Consumer
+TB-21355,55,20,9205.11,1249,1093.99,United States,Corporate
+TB-21400,26,26,21375.99,1414,3471.76,United States,Consumer
+TB-21520,31,34,16716.76,1304,-198.09,United States,Consumer
+TB-21595,29,26,8437.99,1383,1219.02,United States,Consumer
+TB-21625,31,31,13266.2,1213,1867.52,United States,Consumer
+TC-10980,48,8,3239.06,1255,-114.58,Nigeria,Corporate
+TC-11145,13,10,3799.93,1179,1228.81,Russia,Corporate
+TC-11295,13,5,730.91,1404,233.93,Canada,Consumer
+TC-11475,205,9,1907.75,1131,219.86,Canada,Home Office
+TC-11535,371,4,2214.97,176,-1355.66,Nigeria,Home Office
+TC-20980,28,28,34218.27,1308,8787.47,United States,Corporate
+TC-21145,12,25,18419.94,1180,2131.01,Australia,Corporate
+TC-21295,28,29,19391.9,1284,1263.55,United States,Consumer
+TC-21475,2,29,10722.53,1287,1181.26,United States,Home Office
+TC-21535,1,30,8888.06,1210,1738.66,United States,Home Office
+TD-10995,181,3,780.38,280,-769.81,Turkey,Consumer
+TD-20995,1,25,6924.19,1322,-178.31,United States,Consumer
+TG-11310,161,3,714.42,1111,243.54,Kyrgyzstan,Consumer
+TG-11640,31,9,4906.53,1168,1106.25,Canada,Consumer
+TG-21310,15,32,12305.23,1402,2742.92,France,Consumer
+TG-21640,6,33,13973.78,1366,1989.99,United States,Consumer
+TH-11100,254,4,1856.19,662,364.71,Bulgaria,Consumer
+TH-11115,120,6,1870.17,1099,490.35,Benin,Corporate
+TH-11235,231,10,3901.35,1221,549.57,Turkey,Corporate
+TH-11550,390,5,283.83,1016,-24.21,Democratic Republic of the Congo,Home Office
+TH-21100,7,27,13684.87,1370,1587.79,France,Consumer
+TH-21115,44,25,13483.62,1323,1775.34,Australia,Corporate
+TH-21235,9,26,12896.25,1314,1106.72,United States,Corporate
+TH-21550,6,26,12808.91,1361,-709.54,United States,Home Office
+TM-11010,243,3,300.67,800,-270.5,Tajikistan,Consumer
+TM-11490,56,8,2063.02,721,-877.55,Saudi Arabia,Consumer
+TM-21010,65,27,14158.96,1344,2198.64,United States,Consumer
+TM-21490,41,27,13908.86,1329,2378.52,France,Consumer
+TN-11040,55,2,187.35,715,26.31,Tanzania,Home Office
+TN-21040,23,29,9410.26,1428,-732.49,United States,Home Office
+TP-11130,140,6,1261.45,905,109.48,South Africa,Consumer
+TP-11415,642,4,1950.95,760,467.15,Canada,Consumer
+TP-11565,104,5,857.37,1022,145.17,Cameroon,Corporate
+TP-21130,3,37,22697.58,1171,1964.41,United States,Consumer
+TP-21415,49,22,10926.72,1373,-120.96,United States,Consumer
+TP-21565,15,30,12429.8,1401,1650.49,United States,Corporate
+TR-11325,169,4,2395.72,1170,669.88,Morocco,Consumer
+TR-21325,2,22,10033.19,1440,1767.03,India,Consumer
+TS-11085,220,8,1390.68,1180,249.12,Democratic Republic of the Congo,Consumer
+TS-11160,106,5,1130.07,870,194.67,Poland,Corporate
+TS-11205,308,3,641.65,950,-0.89,Zambia,Corporate
+TS-11340,41,5,1631.32,1156,225.85,Guinea-Bissau,Consumer
+TS-11370,19,10,4573.58,1416,992.81,Poland,Corporate
+TS-11430,119,7,5812.08,1308,1811.97,Iran,Corporate
+TS-11505,288,4,2123.95,1064,-157.49,Nigeria,Consumer
+TS-11610,176,5,2011.14,1148,105.42,Iran,Consumer
+TS-11655,203,6,452.88,589,73.17,Ukraine,Consumer
+TS-21085,42,19,5395.21,1258,860.44,El Salvador,Consumer
+TS-21160,9,22,6805.94,1419,939.35,United States,Corporate
+TS-21205,27,32,13888.62,1423,2350.44,United States,Corporate
+TS-21340,9,31,16997.03,1433,2377.12,United States,Consumer
+TS-21370,37,27,23201.68,1365,4101.15,United States,Corporate
+TS-21430,20,22,9532.92,1334,553.02,Indonesia,Corporate
+TS-21505,12,27,17613.42,1368,2306.84,United States,Consumer
+TS-21610,21,30,20565.95,1410,1614.15,United States,Consumer
+TS-21655,85,24,9525.46,1140,952.45,United States,Consumer
+TT-11070,38,2,1572.33,1199,621.96,Ghana,Consumer
+TT-11220,6,9,1826.4,1285,472.38,Nigeria,Consumer
+TT-11265,95,9,5049.04,1056,1269.79,South Africa,Corporate
+TT-11460,43,8,1649.78,660,-160.15,Turkey,Home Office
+TT-21070,15,31,15673.06,1331,1698.4,United States,Consumer
+TT-21220,38,22,13224.56,1162,1188.83,United States,Consumer
+TT-21265,2,20,4730.64,1331,15.04,El Salvador,Corporate
+TT-21460,13,32,18432.01,1380,2390.94,United States,Home Office
+TW-11025,20,8,323.11,1220,-137.87,Nigeria,Home Office
+TW-21025,42,27,13931.9,1403,3412.95,United States,Home Office
+TZ-11445,369,7,745.14,964,250.77,Romania,Corporate
+TZ-11580,49,5,403.01,1301,-275.08,Sudan,Consumer
+TZ-21445,9,28,14601.67,1382,116.72,Australia,Corporate
+TZ-21580,36,19,10455.53,1379,194.96,Germany,Consumer
+VB-11745,5,4,783.63,378,190.83,Moldova,Corporate
+VB-21745,13,21,9961.05,1271,717.73,United States,Corporate
+VD-11670,1,9,1230.05,1192,-211.75,Nigeria,Consumer
+VD-21670,37,21,14754.87,1303,2243.66,United States,Consumer
+VF-11715,95,4,602.35,1262,4.72,Democratic Republic of the Congo,Home Office
+VF-21715,14,24,12000.13,1388,21.39,United States,Home Office
+VG-11790,148,4,386.17,632,47.44,Turkey,Consumer
+VG-11805,136,4,1190.22,797,140.31,Iraq,Corporate
+VG-21790,111,27,9908.61,1333,-411.87,United States,Consumer
+VG-21805,3,23,22573.37,1292,3906.6,Brazil,Corporate
+VM-11685,14,6,858.98,994,-94.96,Kyrgyzstan,Home Office
+VM-11835,9,3,1270.41,1160,338.07,Egypt,Consumer
+VM-21685,33,32,13708.12,1345,-1550.84,United States,Home Office
+VM-21835,112,20,2621.82,1333,318.84,United States,Consumer
+VP-11730,29,4,432.0,980,-508.41,Turkey,Home Office
+VP-11760,237,3,1615.66,412,374.71,Russia,Corporate
+VP-21730,31,29,11629.27,1271,2741.21,India,Home Office
+VP-21760,76,28,16935.56,1295,2016.15,United States,Corporate
+VS-11820,23,7,1136.21,1309,126.53,Bulgaria,Consumer
+VS-21820,139,15,10275.78,1315,1460.08,Australia,Consumer
+VT-11700,31,7,1271.44,1084,178.57,Nigeria,Home Office
+VT-21700,8,25,18099.31,1297,912.21,United States,Home Office
+VW-11775,8,5,1253.17,843,252.49,Egypt,Corporate
+VW-21775,7,30,15785.38,1324,41.89,United States,Corporate
+WB-11850,115,2,182.53,1195,-146.6,Turkey,Consumer
+WB-21850,21,38,16704.66,1305,2694.5,United States,Consumer
+XP-11865,161,3,1011.8,1102,65.15,Morocco,Consumer
+XP-21865,44,27,11187.15,1397,1239.57,United States,Consumer
+YC-11895,100,4,166.3,1142,22.27,Canada,Corporate
+YC-21895,5,27,19998.08,1417,4324.91,France,Corporate
+YS-11880,5,6,1328.83,1395,358.81,Iran,Corporate
+YS-21880,10,26,18703.61,1300,3091.59,United States,Corporate
+ZC-11910,201,1,7.17,0,-15.57,Nigeria,Consumer
+ZC-21910,4,37,28472.82,1192,452.5,United States,Consumer
+ZD-11925,4,9,2951.23,1117,478.42,Senegal,Consumer
+ZD-21925,2,20,9479.34,1408,-276.68,United States,Consumer
